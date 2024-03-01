@@ -37,7 +37,7 @@
 ### 牌组
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains 4s! by [@Steamo](https://github.com/Steamopollys)
-- [Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@Steamo](https://github.com/Steamopollys)
+- ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
 - [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards! by `@Tianjing`
 - [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at full price! Might be overpowered but it's definitely fun! by `@Rose Happy :)`
@@ -63,7 +63,7 @@
 
 ### 功能性
 - [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AchievementsEnabler.lua) - Mod to activate Achievements. by [@Steamo](https://github.com/Steamopollys)
-- [Five of a Flush](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/FiveOfAFlush.lua) - Adds Balatro's most requested hand type. by [@Steamo](https://github.com/Steamopollys)
+- ~~[Five of a Flush](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/FiveOfAFlush.lua) - Adds Balatro's most requested hand type. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
 - [Masquerade](https://github.com/Amvoled/Masquerade) - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - Fixes the collection to work with amounts of cards that aren't the base game's. by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin debug menu. Press TAB to show keybinds. by [@MathIsFun_](https://github.com/MathIsFun0)
