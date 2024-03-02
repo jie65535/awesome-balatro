@@ -37,12 +37,13 @@ Collect all Balator mods and tools, welcome to add!
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains 4s! by [@Steamo](https://github.com/Steamopollys)
 - ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
 - [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
-- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards! by `@Tianjing`
 - [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at full price! Might be overpowered but it's definitely fun! by `@Rose Happy :)`
-- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) Include a new deck which add a voucher to shop when entering and 20% off for vouchers in shop. by `@Tianjing`
+- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free mega standard packs. by `@Rose Happy`
+- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards! by `@Tianjing`
+- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - Include a new deck which add a voucher to shop when entering and 20% off for vouchers in shop. by `@Tianjing`
+- [Expansion Deck](https://discord.com/channels/1116389027176787968/1213521072591208548) - Grab more cards than you can hold! by `@Tianjing`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
-- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free mega standard packs. by `@Rose Happy`
 
 ### GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
