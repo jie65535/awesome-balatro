@@ -60,6 +60,7 @@
 - [Hold For Final Hand Score](https://github.com/Wiwiweb/BalatroMods/blob/main/HoldForFinalHandScore.lua) - Pauses a moment for the final Chip X Mult count, and another moment for the final hand chip total. Especially noticeable on big hands that trigger flames. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods/tree/main/YippeeGameOver): Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - 允许自定义游戏光标. by [@Jie65535](https://github.com/jie65535)
 
 ### 功能性
 - [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AchievementsEnabler.lua) - Mod to activate Achievements. by [@Steamo](https://github.com/Steamopollys)
