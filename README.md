@@ -93,11 +93,12 @@ Collect all Balator mods and tools, welcome to add!
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
+- [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
+- [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
 
 ### Translates
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
-- [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
 
 ### Collection
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - A collection of mods made by Myst for the game Balatro. by [@Mysthaps](https://github.com/Mysthaps)
