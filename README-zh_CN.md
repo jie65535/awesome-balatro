@@ -87,11 +87,13 @@
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 
+### 蜡封
+- [Green Seal](https://github.com/AxBolduc/GreenSeal) - 添加一个绿色蜡封，当丢弃时，将使给定回合的手牌数加1。如果一张带有绿色蜡封的卡牌被记分，那么它也将应用X0.75乘数。 by [@AxBolduc](https://github.com/AxBolduc)
+
 ### 纹理
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
-
 
 ### 翻译
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
