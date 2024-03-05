@@ -97,6 +97,7 @@ Collect all Balator mods and tools, welcome to add!
 ### Translates
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
+- [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
 
 ### Collection
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - A collection of mods made by Myst for the game Balatro. by [@Mysthaps](https://github.com/Mysthaps)
