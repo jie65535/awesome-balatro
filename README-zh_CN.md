@@ -45,6 +45,7 @@
 - [扩容牌组](https://discord.com/channels/1116389027176787968/1213521072591208548) - 出牌或弃牌后，总是抽4张牌 by `@Tianjing`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
+- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 开始时你的手牌获得随机增强！ by [@Encarvlucas](https://github.com/encarvlucas)
 
 ### 界面 GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
