@@ -32,7 +32,7 @@ Collect all Balator mods and tools, welcome to add!
 ## Mods
 > Most mods require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ModLoader.
 
-### Deck
+### Decks
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains 4s! by [@Steamo](https://github.com/Steamopollys)
 - ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
@@ -71,7 +71,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods/blob/main/RandomSprites.lua): Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 
-### Joker
+### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
 - [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - Adds a couple of custom jokers and mechanics to the game. by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods/tree/main/MystJokers) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
@@ -86,11 +86,13 @@ Collect all Balator mods and tools, welcome to add!
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 
+### Seals
+- [Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
+
 ### Textures
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
-
 
 ### Translates
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
