@@ -44,6 +44,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Expansion Deck](https://discord.com/channels/1116389027176787968/1213521072591208548) - Grab more cards than you can hold! by `@Tianjing`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
+- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Start the game with some of your cards already be enhanced! by [@Encarvlucas](https://github.com/encarvlucas)
 
 ### GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
