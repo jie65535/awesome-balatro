@@ -95,6 +95,7 @@
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
+- [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
 
 ### 翻译
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
