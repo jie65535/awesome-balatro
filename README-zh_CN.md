@@ -19,6 +19,27 @@
 
 > 欢迎大家参与模组介绍翻译
 
+## 目录
+- [Awesome-Balatro](#awesome-balatro)
+  - [目录](#目录)
+  - [工具](#工具)
+  - [模组加载器](#模组加载器)
+  - [模组 (依赖 **Steamodded**)](#模组-依赖-steamodded)
+    - [牌组](#牌组)
+    - [界面 GUI](#界面-gui)
+    - [功能性](#功能性)
+    - [小丑](#小丑)
+    - [卡牌](#卡牌)
+    - [挑战](#挑战)
+    - [蜡封](#蜡封)
+    - [材质包](#材质包)
+    - [翻译](#翻译)
+    - [合集](#合集)
+  - [模组 (依赖 Balamod)](#模组-依赖-balamod)
+    - [APIs](#apis)
+    - [Translates](#translates)
+
+
 ## 工具
 
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Edward](https://github.com/efhiii)
@@ -26,13 +47,13 @@
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
+- [Lovely](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for LOVE2D. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 
 ## 模组加载器
-- [**Steamodded**](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+- [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 - [Balamod](https://github.com/UwUDev/balamod) - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 
-## 模组
-> 大部分模组需要 [**Steamodded**](https://github.com/Steamopollys/Steamodded) 模组加载器.
+## 模组 (依赖 [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### 牌组
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
@@ -46,6 +67,7 @@
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
 - [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 开始时你的手牌获得随机增强！ by [@Encarvlucas](https://github.com/encarvlucas)
+- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the Clearance Sale voucher. by `@Neon`
 
 ### 界面 GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
@@ -78,6 +100,7 @@
 - [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - Adds a couple of custom jokers and mechanics to the game. by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods/tree/main/MystJokers) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - 增加了5张小丑牌。 by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
+- [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
 ### 卡牌
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
@@ -87,6 +110,7 @@
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
+- [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
 
 ### 蜡封
 - [Green Seal](https://github.com/AxBolduc/GreenSeal) - 添加一个绿色蜡封，当丢弃时，将使给定回合的手牌数加1。如果一张带有绿色蜡封的卡牌被记分，那么它也将应用X0.75乘数。 by [@AxBolduc](https://github.com/AxBolduc)
@@ -107,6 +131,15 @@
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [FumDuck-Balatro](https://github.com/NanashiTheNameless/FumDuck-Balatro) - My FumDuck Mod For Balatro. by [@NanashiTheNameless](https://github.com/NanashiTheNameless)
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@nicholassam6425](https://github.com/nicholassam6425)
+
+---
+
+## 模组 (依赖 [Balamod](https://github.com/UwUDev/balamod))
+### APIs
+- [LibSprite](https://github.com/JopStro/balamod-libsprite/) - Balmod API for adding custom sprite atlases to balatro. by [@JopStro](https://github.com/JopStro)
+
+### Translates
+- [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
 
 ---
 

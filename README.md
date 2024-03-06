@@ -17,6 +17,25 @@
 
 Collect all Balator mods and tools, welcome to add!
 
+## Table of Contents
+- [Awesome-Balatro](#awesome-balatro)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+  - [Mod Loaders](#mod-loaders)
+  - [Mods (Require **Steamodded**)](#mods-require-steamodded)
+    - [Decks](#decks)
+    - [GUI](#gui)
+    - [Functionality](#functionality)
+    - [Joker](#joker)
+    - [Suits](#suits)
+    - [Challenges](#challenges)
+    - [Textures](#textures)
+    - [Translates](#translates)
+    - [Collection](#collection)
+  - [Mods (Require **Balamod**)](#mods-require-balamod)
+    - [APIs](#apis)
+    - [Translates](#translates-1)
+
 ## Tools
 
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Edward](https://github.com/efhiii)
@@ -24,13 +43,13 @@ Collect all Balator mods and tools, welcome to add!
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
+- [Lovely](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for LOVE2D. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 
-## Mod Loader
-- [**Steamodded**](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+## Mod Loaders
+- [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 - [Balamod](https://github.com/UwUDev/balamod) - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 
-## Mods
-> Most mods require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ModLoader.
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### Decks
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
@@ -45,6 +64,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
 - [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Start the game with some of your cards already be enhanced! by [@Encarvlucas](https://github.com/encarvlucas)
+- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the Clearance Sale voucher. by `@Neon`
 
 ### GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
@@ -77,15 +97,17 @@ Collect all Balator mods and tools, welcome to add!
 - [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - Adds a couple of custom jokers and mechanics to the game. by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods/tree/main/MystJokers) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
+- [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
 ### Suits
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
 - [French Tarot Cavalier Card](https://github.com/Desmero/FrenchTarotCavalierCard) - Add the card rank Cavalier from the game of French Tarot. by [@Desmero](https://github.com/Desmero/FrenchTarotCavalierCard)
 
-### Challenge
+### Challenges
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
+- [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
 
 ### Seals
 - [Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
@@ -107,6 +129,14 @@ Collect all Balator mods and tools, welcome to add!
 - [FumDuck-Balatro](https://github.com/NanashiTheNameless/FumDuck-Balatro) - My FumDuck Mod For Balatro. by [@NanashiTheNameless](https://github.com/NanashiTheNameless)
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@nicholassam6425](https://github.com/nicholassam6425)
 
+---
+
+## Mods (Require [**Balamod**](https://github.com/UwUDev/balamod))
+### APIs
+- [LibSprite](https://github.com/JopStro/balamod-libsprite/) - Balmod API for adding custom sprite atlases to balatro. by [@JopStro](https://github.com/JopStro)
+
+### Translates
+- [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
 
 ---
 
