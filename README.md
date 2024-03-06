@@ -26,7 +26,7 @@ Collect all Balator mods and tools, welcome to add!
     - [Decks](#decks)
     - [GUI](#gui)
     - [Functionality](#functionality)
-    - [Joker](#joker)
+    - [Jokers](#jokers)
     - [Suits](#suits)
     - [Challenges](#challenges)
     - [Textures](#textures)
@@ -35,6 +35,8 @@ Collect all Balator mods and tools, welcome to add!
   - [Mods (Require **Balamod**)](#mods-require-balamod)
     - [APIs](#apis)
     - [Translates](#translates-1)
+    - [Jokers](#jokers-1)
+    - [GUI](#gui-1)
 
 ## Tools
 
@@ -137,6 +139,12 @@ Collect all Balator mods and tools, welcome to add!
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
+  
+### Jokers
+- [Slutty Joker](https://github.com/HeyImKyu/balatro-slutty-joker) - Adds the 'Slutty Joker' that gives a 2x multiplier if you play a 6 and a 9. by [@HeyImKyu](https://github.com/HeyImKyu), [@UwuDev](https://github.com/UwUDev)
+
+### GUI
+- [Gay Mod](https://github.com/HeyImKyu/balatro-gay) - Changes a 'Straight' into a 'Gay'. by [@HeyImKyu](https://github.com/HeyImKyu), [@Skadi](https://github.com/Skadihehe)
 
 ---
 
