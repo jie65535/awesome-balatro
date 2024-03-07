@@ -93,6 +93,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods/blob/main/RandomSprites.lua): Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
+- [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad): Make mouse and gamepad more efficient and easier to use. by [@Kooluve](https://github.com/Kooluve)
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
