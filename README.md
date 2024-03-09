@@ -29,14 +29,16 @@ Collect all Balator mods and tools, welcome to add!
     - [Jokers](#jokers)
     - [Suits](#suits)
     - [Challenges](#challenges)
+    - [Seals](#seals)
     - [Textures](#textures)
     - [Translates](#translates)
-    - [Collection](#collection)
+    - [Collections](#collections)
   - [Mods (Require **Balamod**)](#mods-require-balamod)
     - [APIs](#apis)
     - [Translates](#translates-1)
     - [Jokers](#jokers-1)
     - [GUI](#gui-1)
+    - [Collections](#collections-1)
 
 ## Tools
 
@@ -67,6 +69,20 @@ Collect all Balator mods and tools, welcome to add!
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
 - [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Start the game with some of your cards already be enhanced! by [@Encarvlucas](https://github.com/encarvlucas)
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the Clearance Sale voucher. by `@Neon`
+- [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
+- [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
+- [Even Steven's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/EvenStevenDeck.lua) - Adds a deck with only even cards, that starts with the **Even Steven** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Odd Todd's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/OddToddDeck.lua) - Adds a deck with only odd cards, that starts with the **Odd Todd** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Fibonacci Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/FibonacciDeck.lua) Adds a deck with only the cards from the Fibonacci Sequence (Ace, 2, 3, 5, 8), that starts with the **Fibonacci** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Midas's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/MidasDeck.lua) - Adds a deck with only the Gold Face cards, that starts with the **Midas Mask** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains one Ace of each suit! by `@Chamels`, `@UnknownEternity`
+- [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - A deck that starts with a coupon and polychromatic tag for a good start made for gloc. by `@Spellign`
+- [Legendary Deck](https://discord.com/channels/1116389027176787968/1215385607686066287) - Adds 1 deck (Legendary Deck) and 1 legendary joker (Charon). by `@UnknownEternity`
+- [Kuso Modpack](https://discord.com/channels/1116389027176787968/1215786968433164328) - A collection of mods I've made. Mostly exists so that I can assign multiple custom deck images to custom decks. by `@Kusoro`
+  - Joker Deck - Start with two random Eternal Jokers.
+  - Flood Deck - One joker fills all slots, Destroying one destroys all.
+  - Curse Deck - Discarded cards, get downranked by 1, watch where you click.
+
 
 ### GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
@@ -95,6 +111,8 @@ Collect all Balator mods and tools, welcome to add!
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods/blob/main/RandomSprites.lua) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
+- [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - Enables controller rumble support. by `@WilsontheWolf`
+- [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
@@ -112,9 +130,11 @@ Collect all Balator mods and tools, welcome to add!
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
+- [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
 
 ### Seals
 - [Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
+- [SilverSeal](https://github.com/mwithington/SilverSeal) - A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. [@mwithington](https://github.com/mwithington), `@AxBolduc`
 
 ### Textures
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
@@ -127,11 +147,12 @@ Collect all Balator mods and tools, welcome to add!
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
 
-### Collection
+### Collections
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - A collection of mods made by Myst for the game Balatro. by [@Mysthaps](https://github.com/Mysthaps)
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [FumDuck-Balatro](https://github.com/NanashiTheNameless/FumDuck-Balatro) - My FumDuck Mod For Balatro. by [@NanashiTheNameless](https://github.com/NanashiTheNameless)
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@nicholassam6425](https://github.com/nicholassam6425)
+- [Mikas Balatro mods](https://github.com/MikaSchoenmakers/MikasBalatro/) - Even Steven's Deck, Odd Todd's Deck, Fibonacci Deck, Midas's Deck. by [@Mikadoe](https://github.com/MikaSchoenmakers)
 
 ---
 
@@ -147,6 +168,9 @@ Collect all Balator mods and tools, welcome to add!
 
 ### GUI
 - [Gay Mod](https://github.com/HeyImKyu/balatro-gay) - Changes a 'Straight' into a 'Gay'. by [@HeyImKyu](https://github.com/HeyImKyu), [@Skadi](https://github.com/Skadihehe)
+
+### Collections
+- [Balatro-CommunityPack](https://github.com/GoldenEpsilon/Balatro-CommunityPack) - see https://discord.com/channels/1116389027176787968/1215516228525760543
 
 ---
 
