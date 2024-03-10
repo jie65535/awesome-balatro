@@ -38,6 +38,7 @@ Collect all Balator mods and tools, welcome to add!
     - [Translates](#translates-1)
     - [Jokers](#jokers-1)
     - [GUI](#gui-1)
+    - [Challenges](#challenges-1)
     - [Collections](#collections-1)
 
 ## Tools
@@ -97,7 +98,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Hold For Final Hand Score](https://github.com/Wiwiweb/BalatroMods/blob/main/HoldForFinalHandScore.lua) - Pauses a moment for the final Chip X Mult count, and another moment for the final hand chip total. Especially noticeable on big hands that trigger flames. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
-- [YippeeGameOver](https://github.com/Mysthaps/BalatroMods/tree/main/YippeeGameOver): Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [YippeeGameOver](https://github.com/Mysthaps/BalatroMods): Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 
 ### Functionality
@@ -108,7 +109,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin debug menu. Press TAB to show keybinds. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
-- [RandomSprite](https://github.com/Mysthaps/BalatroMods/blob/main/RandomSprites.lua) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
+- [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - Enables controller rumble support. by `@WilsontheWolf`
@@ -116,8 +117,7 @@ Collect all Balator mods and tools, welcome to add!
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
-- [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - Adds a couple of custom jokers and mechanics to the game. by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
-- [MystJokers](https://github.com/Mysthaps/BalatroMods/tree/main/MystJokers) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
+- [MystJokers](https://github.com/Mysthaps/BalatroMods) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
@@ -128,7 +128,7 @@ Collect all Balator mods and tools, welcome to add!
 ### Challenges
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
-- [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
+- [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
 - [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
 
@@ -164,10 +164,14 @@ Collect all Balator mods and tools, welcome to add!
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
   
 ### Jokers
+- [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - Adds a couple of custom jokers and mechanics to the game. by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
 - [Slutty Joker](https://github.com/HeyImKyu/balatro-slutty-joker) - Adds the 'Slutty Joker' that gives a 2x multiplier if you play a 6 and a 9. by [@HeyImKyu](https://github.com/HeyImKyu), [@UwuDev](https://github.com/UwUDev)
 
 ### GUI
 - [Gay Mod](https://github.com/HeyImKyu/balatro-gay) - Changes a 'Straight' into a 'Gay'. by [@HeyImKyu](https://github.com/HeyImKyu), [@Skadi](https://github.com/Skadihehe)
+
+### Challenges
+- [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 
 ### Collections
 - [Balatro-CommunityPack](https://github.com/GoldenEpsilon/Balatro-CommunityPack) - see https://discord.com/channels/1116389027176787968/1215516228525760543
