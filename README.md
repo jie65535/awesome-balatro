@@ -100,6 +100,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods): Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
+- [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
 
 ### Functionality
 - [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AchievementsEnabler.lua) - Mod to activate Achievements. by [@Steamo](https://github.com/Steamopollys)
@@ -114,6 +115,8 @@ Collect all Balator mods and tools, welcome to add!
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - Enables controller rumble support. by `@WilsontheWolf`
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
+- [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute)
+- [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
@@ -131,6 +134,7 @@ Collect all Balator mods and tools, welcome to add!
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
 - [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
+- [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) - start with a negative eternal riffraff you have to get money and win with just common jokers. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 
 ### Seals
 - [Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
@@ -142,6 +146,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
+- [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - Modified enhancement textures to fit the pattern of changing the material of the cards. by `@Luna`
 
 ### Translates
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
