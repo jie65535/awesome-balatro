@@ -57,33 +57,39 @@ Collect all Balator mods and tools, welcome to add!
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### Decks
-- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
-- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains 4s! by [@Steamo](https://github.com/Steamopollys)
-- ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
-- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
-- [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at full price! Might be overpowered but it's definitely fun! by `@Rose Happy :)`
-- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free mega standard packs. by `@Rose Happy`
-- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards! by `@Tianjing`
-- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - Include a new deck which add a voucher to shop when entering and 20% off for vouchers in shop. by `@Tianjing`
+- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of **PolyGlass**! by [`@Steamo`](https://github.com/Steamopollys)
+- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [`@Steamo`](https://github.com/Steamopollys)
+- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - Ultimate Random Deck! by [`@Steamo`](https://github.com/Steamopollys)
+- ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [`@MathIsFun_`](https://github.com/MathIsFun0)~~ _(Deprecated)_
+- [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at **full price**! Might be overpowered but it's definitely fun! by `@Rose Happy`
+- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
+- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards by **1**! by `@Tianjing`
+- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - Include a new deck which add **1** voucher to shop when entering and **20%** off for vouchers in shop. by `@Tianjing`
 - [Expansion Deck](https://discord.com/channels/1116389027176787968/1213521072591208548) - Grab more cards than you can hold! by `@Tianjing`
-- [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
+- [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which **doubles** all probabilities, both bad and good! by `@Blackbando`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
-- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Start the game with some of your cards already be enhanced! by [@Encarvlucas](https://github.com/encarvlucas)
-- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the Clearance Sale voucher. by `@Neon`
+- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Start the game with some of your cards already be **enhanced**! by [@Encarvlucas](https://github.com/encarvlucas)
+- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
-- [Even Steven's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/EvenStevenDeck.lua) - Adds a deck with only even cards, that starts with the **Even Steven** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
-- [Odd Todd's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/OddToddDeck.lua) - Adds a deck with only odd cards, that starts with the **Odd Todd** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
-- [Fibonacci Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/FibonacciDeck.lua) Adds a deck with only the cards from the Fibonacci Sequence (Ace, 2, 3, 5, 8), that starts with the **Fibonacci** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
-- [Midas's Deck](https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/decks/MidasDeck.lua) - Adds a deck with only the Gold Face cards, that starts with the **Midas Mask** joker. by [@Mikadoe](https://github.com/MikaSchoenmakers)
-- [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains one Ace of each suit! by `@Chamels`, `@UnknownEternity`
-- [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - A deck that starts with a coupon and polychromatic tag for a good start made for gloc. by `@Spellign`
+- [Mikas Balatro Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of decks and jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
+  - Even Steven's Deck - A deck that only contains even cards. Starts with the **Even Steven** joker.
+  - Odd Todd's Deck - A deck that only contains odd cards. Starts with the **Odd Todd** joker.
+  - Fibonacci Deck - A deck that only contains cards from the Fibonacci Sequence *(Ace, 2, 3, 5, 8)*. Starts with the **Fibonacci** joker.
+  - Prime Deck - A deck that only contains prime cards *(2, 3, 5, 7, Ace)*. Starts with the **Prime** joker.
+  - Midas's Deck - A deck that only contains Gold Face cards. Starts with the **Midas Mask** joker.
+  - "Jokers for Hire" Deck - All Jokers give +1 Joker slot, but the price of Jokers and Buffoon Packs increase **exponentially**.
+- [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
+- [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - A deck that starts with a **coupon** and **polychromatic** tag for a good start made for gloc. by `@Spellign`
 - [Legendary Deck](https://discord.com/channels/1116389027176787968/1215385607686066287) - Adds 1 deck (Legendary Deck) and 1 legendary joker (Charon). by `@UnknownEternity`
-- [Kuso Modpack](https://discord.com/channels/1116389027176787968/1215786968433164328) - A collection of mods I've made. Mostly exists so that I can assign multiple custom deck images to custom decks. by `@Kusoro`
-  - Joker Deck - Start with two random Eternal Jokers.
+- [Gimmicky decks pack](https://discord.com/channels/1116389027176787968/1215786968433164328) - A collection of mods I've made. Mostly exists so that I can assign multiple custom deck images to custom decks. by `@Kusoro`
+  - Joker Deck - Start with **2** random **Eternal** Jokers.
   - Flood Deck - One joker fills all slots, Destroying one destroys all.
-  - Curse Deck - Discarded cards, get downranked by 1, watch where you click.
-
+  - Curse Deck - Discarded cards, get downranked by **1**, watch where you click.
+  - Nihil Deck - All jokers are **Negative**. On joker pickup, lose a random resource.
+  - Gacha Deck - More **booster packs** in shop. Shop only seels booster packs and a voucher.
+- [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) - All Ranks and Suits in deck are randomized but heavily **biased** towards a specific type. Enhancements, editions and seals are also biasely added to some cards. by [`@Mojimoon`](https://github.com/mojimoon/)
+- [Joker Only Deck](https://github.com/mojimoon/MojiBalatro/blob/main/JokerOnlyDeck/JokerOnlyDeck.lua) - All **Consumables** and **Vouchers** are banned, together with related Jokers, Tags and Booster Packs. by [`@Mojimoon`](https://github.com/mojimoon/)
 
 ### GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
