@@ -122,6 +122,7 @@ Collect all Balator mods and tools, welcome to add!
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
+- [MoreFluff](https://notmario.github.io/MoreFluff/) - Adds more jokers to the game, by [@notmario](https://github.com/notmario)
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
@@ -145,6 +146,7 @@ Collect all Balator mods and tools, welcome to add!
 - [SilverSeal](https://github.com/mwithington/SilverSeal) - A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. [@mwithington](https://github.com/mwithington), `@AxBolduc`
 
 ### Textures
+- [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
