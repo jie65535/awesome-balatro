@@ -56,18 +56,39 @@
 ## 模组 (依赖 [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### 牌组
-- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of PolyGlass! by [@Steamo](https://github.com/Steamopollys)
-- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains 4s! by [@Steamo](https://github.com/Steamopollys)
-- ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - Implements an unused deck hidden in the game's textures. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
-- [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at full price! Might be overpowered but it's definitely fun! by `@Rose Happy :)`
-- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free mega standard packs. by `@Rose Happy`
-- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards! by `@Tianjing`
-- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - Include a new deck which add a voucher to shop when entering and 20% off for vouchers in shop. by `@Tianjing`
-- [扩容牌组](https://discord.com/channels/1116389027176787968/1213521072591208548) - 出牌或弃牌后，总是抽4张牌 by `@Tianjing`
-- [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which doubles all probabilities, both bad and good! by `@Blackbando`
-- [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
-- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 开始时你的手牌获得随机增强！ by [@Encarvlucas](https://github.com/encarvlucas)
-- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the Clearance Sale voucher. by `@Neon`
+- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - 开局时牌组中都是**多彩玻璃**牌。 by [@Steamo](https://github.com/Steamopollys)
+- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - 开局时牌组中都是 **4** 点。 by [@Steamo](https://github.com/Steamopollys)
+- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - 开局时牌组中的点数、花色、增强、版本和蜡封都是随机的。 by [@Steamo](https://github.com/Steamopollys)
+- ~~[Labyrinth Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/LabyrinthDeck.lua) - 让隐藏在游戏纹理中的未使用牌组重见天日。 by [`@MathIsFun_`](https://github.com/MathIsFun0)~~ _(Deprecated)_
+- [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - 小丑牌和消耗牌以**原价**出售。 by `@Rose Happy`
+- [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - 回合结束后获得免费的**超级标准包**。 by `@Rose Happy`
+- [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - 被丢弃的手牌点数提高 **1**。 by `@Tianjing`
+- [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - 商店额外出售 **1** 张优惠券，优惠券降价 **20%**。 by `@Tianjing`
+- [Expansion Deck](https://discord.com/channels/1116389027176787968/1213521072591208548) - 每次出牌或弃牌后抽 **4** 张牌。 by `@Tianjing`
+- [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - 将所有以数字标出的概率**翻倍**。 by `@Blackbando`
+- [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - 击败 Boss 盲注后获得**负片标签**，小丑牌槽位 **-1**。 by `@Blackbando`
+- [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 开局时牌组中有部分牌获得**增强**、**版本**和**蜡封**。 by [@Encarvlucas](https://github.com/encarvlucas)
+- [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - 开局时获得**清仓特卖**优惠券。by `@Neon`
+- [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - 开局时牌组中只有增强的 A、K、Q、J、10。 by `@UnknownEternity`
+- [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - 开局时获得**星球牌**相关小丑和优惠券。 by `@Vicendithas`
+- [Mikas Balatro Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - 自制牌组和小丑牌合集。 by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
+  - Even Steven's Deck - 开局时牌组中只有偶数点数的牌，并获得**偶数史蒂文**。
+  - Odd Todd's Deck - 开局时牌组中只有奇数点数的牌，并获得**奇数托德**。
+  - Fibonacci Deck - 开局时牌组中只有斐波那契点数的牌 *（A、2、3、5、8）*，并获得**斐波那契**。
+  - Prime Deck - 开局时牌组中只有质数点数的牌 *（A、2、3、5、7）*，并获得**质数**。
+  - Midas's Deck - 开局时牌组中只有黄金人头牌，并获得**迈达斯面具**。
+  - "Jokers for Hire" Deck - 所有小丑牌提供小丑牌槽位 **+1**，但小丑牌和小丑补充包的价格**指数**增加。
+- [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - 开局时牌组中只有 **4 种花色的 A 各一张**，回合结束后获得免费的**超级标准包**。 by `@Chamels`, `@UnknownEternity`
+- [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - 开局时获得**代金券**和**多彩**标签。 by `@Spellign`
+- [Legendary Deck](https://discord.com/channels/1116389027176787968/1215385607686066287) - 开局时牌组大小**翻倍**并获得**增强**。 by `@UnknownEternity`
+- [Gimmicky decks pack](https://discord.com/channels/1116389027176787968/1215786968433164328) - 自制牌组合集。 by `@Kusoro`
+  - Joker Deck - 开始游戏时获得 **2** 张随机 **永恒** 小丑牌。
+  - Flood Deck - 获得小丑牌时用其复制填满槽位，摧毁小丑牌时改为摧毁所有小丑牌。
+  - Curse Deck - 被丢弃的手牌点数降低 **1**。
+  - Nihil Deck - 所有小丑牌获得**负片**，获得小丑牌时随机失去一种资源。
+  - Gacha Deck - 商店里只出售补充包和优惠券，但**补充包**数量更多。
+- [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) - 牌组中所有牌的点数和花色都是随机的但**偏向**于同一种，增强、版本和蜡封也会偏向性地添加到部分牌上。 by [`@Mojimoon`](https://github.com/mojimoon/)
+- [Joker Only Deck](https://github.com/mojimoon/MojiBalatro/blob/main/JokerOnlyDeck/JokerOnlyDeck.lua) - 所有**消耗牌**和**优惠券**，以及相关的小丑牌、标签和补充包都被禁用。 by [`@Mojimoon`](https://github.com/mojimoon/)
 
 ### 界面 GUI
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
