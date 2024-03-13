@@ -72,7 +72,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
-- [Mikas Balatro Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of decks and jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 6 decks and 8 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
   - Even Steven's Deck - A deck that only contains even cards. Starts with the **Even Steven** joker.
   - Odd Todd's Deck - A deck that only contains odd cards. Starts with the **Odd Todd** joker.
   - Fibonacci Deck - A deck that only contains cards from the Fibonacci Sequence *(Ace, 2, 3, 5, 8)*. Starts with the **Fibonacci** joker.
@@ -169,7 +169,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [FumDuck-Balatro](https://github.com/NanashiTheNameless/FumDuck-Balatro) - My FumDuck Mod For Balatro. by [@NanashiTheNameless](https://github.com/NanashiTheNameless)
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@nicholassam6425](https://github.com/nicholassam6425)
-- [Mikas Balatro mods](https://github.com/MikaSchoenmakers/MikasBalatro/) - Even Steven's Deck, Odd Todd's Deck, Fibonacci Deck, Midas's Deck. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro/) - A collection of 6 decks and 8 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
 
 ---
 
