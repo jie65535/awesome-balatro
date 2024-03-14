@@ -125,6 +125,7 @@ Collect all Balator mods and tools, welcome to add!
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - A mod to increase the score cap from 1.7e308 to effectively infinite. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [DisableVerdantLeaf](https://github.com/V-rtualized/DisableVerdantLeaf) - Disable Verdant Leaf (All cards debuffed until 1 Joker Sold) on specific challenge runs. by [@V-rtualized](https://github.com/V-rtualized)
+- [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
