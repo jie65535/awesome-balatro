@@ -72,7 +72,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 6 decks and 14 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 6 decks and 20 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
   - Even Steven's Deck - A deck that only contains even cards. Starts with the **Even Steven** joker.
   - Odd Todd's Deck - A deck that only contains odd cards. Starts with the **Odd Todd** joker.
   - Fibonacci Deck - A deck that only contains cards from the Fibonacci Sequence *(Ace, 2, 3, 5, 8)*. Starts with the **Fibonacci** joker.
@@ -137,7 +137,7 @@ Collect all Balator mods and tools, welcome to add!
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 6 decks and 14 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 6 decks and 20 jokers. by [`@Mikadoe`](https://github.com/MikaSchoenmakers)
 
 ### Suits
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
