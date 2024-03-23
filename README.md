@@ -150,6 +150,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by `@infarctus`
 - [Neow Blessings](https://github.com/kjossul/NeowBlessings) - Choose starting blessings, inspired from Slay The Spire. by [@kjossul](https://github.com/kjossul)
+- [Custom hand size](https://github.com/ScottMono/BalatroMods) - Sets hand size to a number of your choice. Good for testing mods or just having fun. by [@ScottMono](https://github.com/ScottMono)
 
 ### Jokers
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
