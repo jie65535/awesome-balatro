@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
 
-Collect all Balator mods and tools, welcome to add!
+Collect all Balatro mods and tools, welcome to add!
 
 ## Table of Contents
 - [Awesome-Balatro](#awesome-balatro)
@@ -129,6 +129,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - Fixes the collection to work with amounts of cards that aren't the base game's. by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin debug menu. Press TAB to show keybinds. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
+- [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [Agoraaa](https://github.com/Agoraaa)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
