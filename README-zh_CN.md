@@ -170,6 +170,7 @@
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - 增加两种新花色：星星和月亮。 by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
 - [French Tarot Cavalier Card](https://github.com/Desmero/FrenchTarotCavalierCard) - 增加新的卡牌点数 C（Cavalier，骑士），来自法国塔罗牌。 by [@Desmero](https://github.com/Desmero/FrenchTarotCavalierCard)
 - [Hanafuda Hybrid](https://github.com/tvroonhove/HanafudaHybridMod) - 将常规牌组变成混合的花札牌，相应地调整了基础筹码。  by [@Shirou97](https://github.com/tvroonhove)
+- [Musical Suit](https://github.com/itayfeder/MusicalSuit) - 增加新花色、小丑、塔罗牌和盲注。 by [@itayfeder](https://github.com/itayfeder)
 
 ### 挑战
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) 结合了所有基础牌组的效果，基础盲注分数 x2。 by [@Aure](https://github.com/Aurelius7309)
