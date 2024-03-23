@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
 
-Collect all Balator mods and tools, welcome to add!
+Collect all Balatro mods and tools, welcome to add!
 
 ## Table of Contents
 - [Awesome-Balatro](#awesome-balatro)
