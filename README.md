@@ -34,6 +34,7 @@ Collect all Balator mods and tools, welcome to add!
     - [Translates](#translates)
     - [Collections](#collections)
     - [Utils](#utils)
+    - [Libraries](#libraries)
   - [Mods (Require **Balamod**)](#mods-require-balamod)
     - [APIs](#apis)
     - [Decks](#decks-1)
@@ -165,6 +166,7 @@ Collect all Balator mods and tools, welcome to add!
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
 - [French Tarot Cavalier Card](https://github.com/Desmero/FrenchTarotCavalierCard) - Add the card rank Cavalier from the game of French Tarot. by [@Desmero](https://github.com/Desmero/FrenchTarotCavalierCard)
 - [Hanafuda Hybrid](https://github.com/tvroonhove/HanafudaHybridMod) - Turns the regular set of playing cards into hybrid hanafuda cards, and adjusts their base chip value accordingly. by [@Shirou97](https://github.com/tvroonhove)
+- [Musical Suit](https://github.com/itayfeder/MusicalSuit) - Adds a new suit (Notes ♪). with new jokers, tarot, and blind. by [@itayfeder](https://github.com/itayfeder)
 
 ### Challenges
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
@@ -202,6 +204,10 @@ Collect all Balator mods and tools, welcome to add!
 
 ### Utils
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - systematically loads all the card back files into the system. by [@Kenny Stone](https://github.com/Ken-Shi)
+
+### Libraries
+- [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
+
 
 ---
 
