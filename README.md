@@ -4,6 +4,7 @@
   </a>
   
   <p>The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.</p>
+  
 </div>
 
 <br/>
@@ -14,6 +15,8 @@
 [![Steam](https://img.shields.io/badge/Steam-Balatro-blue?logo=steam)](https://store.steampowered.com/app/2379780/Balatro/)
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
+
+English | [简体中文](/README-zh_CN.md)
 
 Collect all Balatro mods and tools, welcome to add!
 

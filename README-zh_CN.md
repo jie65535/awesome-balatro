@@ -15,6 +15,8 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
 
+[English](/README.md) | 简体中文
+
 致力于收集所有小丑牌模组，欢迎补充！
 
 > 欢迎大家参与模组介绍翻译
@@ -35,9 +37,10 @@
     - [纹理](#纹理)
     - [翻译](#翻译)
     - [合集](#合集)
-    - [工具](#工具)
-  - [模组 (依赖 **Balamod**)](#模组-依赖-balamod)
-    - [接口](#接口)
+    - [工具](#工具-1)
+    - [依赖库](#依赖库)
+  - [模组 (依赖 Balamod)](#模组-依赖-balamod)
+    - [API](#api)
     - [牌组](#牌组-1)
     - [功能](#功能-1)
     - [小丑](#小丑-1)
@@ -134,6 +137,7 @@
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - 修复收藏界面以显示非原版游戏的卡牌。 by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - 开启游戏内置的 debug 菜单。按 TAB 键显示快捷键。 by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - 增加了一些键盘快捷键。 by [Milck](https://github.com/Mi1cK)
+- [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [Agoraaa](https://github.com/Agoraaa)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - 完成某一赌注后可以为所有牌组解锁低于该赌注两级的赌注。 by [@Wiwiweb](https://github.com/Wiwiweb)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - 随机化所有的小丑、优惠券、补充包和消耗牌的图形。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - 让鼠标和手柄操作更加简单高效。例如长按右键拖动可以多选卡牌。 by [@Kooluve](https://github.com/Kooluve)
@@ -153,6 +157,8 @@
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - 在选项界面显示种子，并且随时都可以复制，同样适用于非种子局。Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
+- [Custom hand size](https://github.com/ScottMono/BalatroMods) - 可以在代码中设定手牌数量，便于测试。 by [@ScottMono](https://github.com/ScottMono)
+
 
 ### 小丑
 - [LushMod](https://github.com/lusciousdev/LushMod) - 增加 9 个小丑。 by [@lusciousdev](https://github.com/lusciousdev)
@@ -206,11 +212,16 @@
 
 ### 工具
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - 加载所有卡牌背面的素材。 by [@Kenny Stone](https://github.com/Ken-Shi)
+
+### 依赖库
+- [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
+
+
 ---
 
 ## 模组 (依赖 [Balamod](https://github.com/UwUDev/balamod))
 
-### 接口
+### API
 - ~~[LibSprite](https://github.com/JopStro/balamod-libsprite/) - Balamod 的自定义图集接口。 by [@JopStro](https://github.com/JopStro)~~ ()
 - [JS_Sprite](https://github.com/JopStro/BalatroMods) - 自定义和扩大图集。 by [@JopStro](https://github.com/JopStro)
 - [JS_Center](https://github.com/JopStro/BalatroMods) - 增加新卡牌。 by [@JopStro](https://github.com/JopStro)
