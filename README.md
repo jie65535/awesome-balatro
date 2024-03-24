@@ -264,10 +264,10 @@ Collect all Balatro mods and tools, welcome to add!
 - [Ganymede](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#ganymede-modsc_ganymedelua) - A planet card that levels up all hands that contain flushes. by [@arachnei](https://github.com/nicholassam6425)
 
 ### Spectrals
-- [Bezos](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#humanity-modsc_humanitylua) - An example tarot card that averages the ranks of selected cards. by [@arachnei](https://github.com/nicholassam6425)
+- [Humanity](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#bezos-modsc_bezoslua) - An example spectral card that gives you $100 on use. by [@arachnei](https://github.com/nicholassam6425)
 
 ### Tarots
-- [Humanity](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#bezos-modsc_bezoslua) - An example spectral card that gives you $100 on use. by [@arachnei](https://github.com/nicholassam6425)
+- [Bezos](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#humanity-modsc_humanitylua) - An example tarot card that averages the ranks of selected cards. by [@arachnei](https://github.com/nicholassam6425)
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
