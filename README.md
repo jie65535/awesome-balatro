@@ -83,12 +83,12 @@ Collect all Balatro mods and tools, welcome to add!
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 - [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) - start with a negative eternal riffraff you have to get money and win with just common jokers. by [@UppedHealer8521](https://github.com/UppedHealer8521)
-- [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
+- [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) - Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
 
 ### Collections
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@arachnei](https://github.com/nicholassam6425)
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - A collection of mods made by Myst for the game Balatro. by [@Mysthaps](https://github.com/Mysthaps)
-- [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
+- [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 
 ### Decks
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
@@ -178,8 +178,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
-- [Taikomochi](https://github.com/Amvoled/Taikomochi) New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
-- [YippeeGameOver](https://github.com/Mysthaps/BalatroMods): Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [Taikomochi](https://github.com/Amvoled/Taikomochi) - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
+- [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
 
 ### Jokers
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
@@ -204,14 +204,14 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Textures
 - [Baba Decks](https://discord.com/channels/1116389027176787968/1217466648135733328) - A texture mod, using art by Auburn Arcana on Tumblr. Makes the basic + Abandoned decks look like Baba! by `@Blackbando`
-- [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
-- [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
-- [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
+- [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) - A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
+- [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
+- [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) - This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - Replaces Tarot cards with Game of Thrones Tarot (HBO). by `@Zabuza`
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
 - [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - Modified enhancement textures to fit the pattern of changing the material of the cards. by `@Luna`
 - [Persona Tarot](https://discord.com/channels/1116389027176787968/1219528214486192138) - Replaces Tarot cards with their respective versions from the Persona video game series. by `@Sunday`
-- [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) Keranik's 4-Color Poker Player's Deck. by `@Keranik`
+- [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 
 ### Translates
