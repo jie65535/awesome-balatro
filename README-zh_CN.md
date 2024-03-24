@@ -165,7 +165,6 @@
 - [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - 支持手柄震动。 by `@WilsontheWolf`
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
-- ~~[Five of a Flush](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/FiveOfAFlush.lua) -加入这游戏最需要的牌型。 by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
 
 ### 界面
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - 显示手牌可以打出哪些牌型。 by [@cantlookback](https://github.com/cantlookback)

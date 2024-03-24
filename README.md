@@ -160,7 +160,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - Enables controller rumble support. by `@WilsontheWolf`
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by `@infarctus`
-- ~~[Five of a Flush](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/FiveOfAFlush.lua) - Adds Balatro's most requested hand type. by [@MathIsFun_](https://github.com/MathIsFun0)~~ _(Deprecated)_
 
 ### GUI
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
