@@ -139,7 +139,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
-- [Better Stack](https://github.com/WilsontheWolf/Better-Stack) - Output more useful stack traces when the game crashes. by [@WilsontheWolf](https://github.com/WilsontheWolf) *([Pulling request](https://github.com/Steamopollys/Steamodded/pull/38) to Steamodded...)*
+- ~~[Better Stack](https://github.com/WilsontheWolf/Better-Stack) - Output more useful stack traces when the game crashes. by [@WilsontheWolf](https://github.com/WilsontheWolf)~~ *([Merged](https://github.com/Steamopollys/Steamodded/pull/38) to Steamodded)*
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - Rework of orange and gold stakes, making them less challenging and reducing the need to reset for a good start. by [@kjossul](https://github.com/kjossul)
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - Fixes the collection to work with amounts of cards that aren't the base game's. by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Custom hand size](https://github.com/ScottMono/BalatroMods) - Sets hand size to a number of your choice. Good for testing mods or just having fun. by [@ScottMono](https://github.com/ScottMono)
@@ -157,7 +157,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
-- [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - Enables controller rumble support. by `@WilsontheWolf`
+- [Rumble](https://github.com/WilsontheWolf/balatro-mods) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by `@infarctus`
 

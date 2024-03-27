@@ -144,7 +144,7 @@
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - 在选项界面显示种子，并且随时都可以复制，同样适用于非种子局。Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - 快速 SL。 by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - 让鼠标和手柄操作更加简单高效。例如长按右键拖动可以多选卡牌。 by [@Kooluve](https://github.com/Kooluve)
-- [Better Stack](https://github.com/WilsontheWolf/Better-Stack) - 当游戏崩溃时输出更有用的栈跟踪信息。 by [@WilsontheWolf](https://github.com/WilsontheWolf) *([Pulling request](https://github.com/Steamopollys/Steamodded/pull/38) to Steamodded...)*
+- ~~[Better Stack](https://github.com/WilsontheWolf/Better-Stack) - 当游戏崩溃时输出更有用的栈跟踪信息。 by [@WilsontheWolf](https://github.com/WilsontheWolf)~~ *([已合并](https://github.com/Steamopollys/Steamodded/pull/38)到 Steamodded)*
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - 修改并降低了橙注和金注的难度。 by [@kjossul](https://github.com/kjossul)
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - 修复收藏界面以显示非原版游戏的卡牌。 by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Custom hand size](https://github.com/ScottMono/BalatroMods) - 可以在代码中设定手牌数量，便于测试。 by [@ScottMono](https://github.com/ScottMono)
@@ -162,7 +162,7 @@
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - F2快速重开底注1。 by [@arachnei](https://github.com/nicholassam6425)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - 随机化所有的小丑、优惠券、补充包和消耗牌的图形。 by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - 移除所有小丑。可以用来让一局游戏只包含选择的部分小丑。 by [@Akita Attribute](https://github.com/AkitaAttribute)
-- [Rumble](https://discord.com/channels/1116389027176787968/1214561899014918165) - 支持手柄震动。 by `@WilsontheWolf`
+- [Rumble](https://github.com/WilsontheWolf/balatro-mods) - 支持手柄震动。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
 
