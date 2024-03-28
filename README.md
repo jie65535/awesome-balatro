@@ -113,7 +113,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [High Card Deck and Jokers](https://github.com/Ken-Shi/Balatro_HighCardMod) - Create a deck that references the HighCard Franchise! by [@Kenny Stone](https://github.com/Ken-Shi)
 - [Joker Only Deck](https://github.com/mojimoon/MojiBalatro/blob/main/JokerOnlyDeck/JokerOnlyDeck.lua) - All **Consumables** and **Vouchers** are banned, together with related Jokers, Tags and Booster Packs. by [@Mojimoon](https://github.com/mojimoon/)
 - [Legendary Deck](https://discord.com/channels/1116389027176787968/1215385607686066287) - Adds 1 deck (Legendary Deck) and 1 legendary joker (Charon). by `@UnknownEternity`
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 31 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 45 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
   - Even Steven's Deck - A deck that only contains even cards. Starts with the **Even Steven** joker.
   - Odd Todd's Deck - A deck that only contains odd cards. Starts with the **Odd Todd** joker.
   - Fibonacci Deck - A deck that only contains cards from the Fibonacci Sequence *(Ace, 2, 3, 5, 8)*. Starts with the **Fibonacci** joker.
@@ -186,7 +186,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 31 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 45 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
 - [MoreFluff](https://notmario.github.io/MoreFluff/) - Adds more jokers to the game, by [@notmario](https://github.com/notmario)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
