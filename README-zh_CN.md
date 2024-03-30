@@ -50,12 +50,16 @@
     - [界面](#界面-1)
     - [小丑](#小丑-1)
     - [星球](#星球)
+    - [蜡封](#蜡封-1)
     - [幻灵](#幻灵)
     - [塔罗](#塔罗)
     - [翻译](#翻译-1)
     - [优惠券](#优惠券)
   - [模组 (依赖 **Lovely**)](#模组-依赖-lovely)
+    - [牌组](#牌组-2)
+    - [小丑](#小丑-2)
     - [翻译](#翻译-2)
+    - [工具](#工具-2)
   - [模组 (其他)](#模组-其他)
     - [纹理](#纹理-1)
 
@@ -102,12 +106,15 @@
 - [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - 回合结束后获得免费的**超级标准包**。 by `@Rose Happy`
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - 开局时获得**清仓特卖**优惠券。by `@Neon`
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - 开局时牌组中都是 **4** 点。 by [@Steamo](https://github.com/Steamopollys)
+- [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - 开局时牌组中都是 **8** 点。 by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - 将所有以数字标出的概率**翻倍**。 by `@Blackbando`
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - 被丢弃的手牌点数提高 **1**。 by `@Tianjing`
 - [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - 开局时获得**代金券**和**多彩**标签。 by `@Spellign`
 - [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) - 牌组中所有牌的点数和花色都是随机的但**偏向**于同一种，增强、版本和蜡封也会偏向性地添加到部分牌上。 by [`@Mojimoon`](https://github.com/mojimoon/)
 - [Enchanted Deck](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 开局时牌组中有部分牌获得**增强**、**版本**和**蜡封**。 by [@Encarvlucas](https://github.com/encarvlucas)
 - [Expansion Deck](https://discord.com/channels/1116389027176787968/1213521072591208548) - 每次出牌或弃牌后抽 **4** 张牌。 by `@Tianjing`
+- [Foiled Deck](https://discord.com/channels/1116389027176787968/1220733310360359033/1221074837343305789) - All the cards are Foiled. by `@itiseren`
+- [Foiled Wild Deck](https://discord.com/channels/1116389027176787968/1220733310360359033/1221782780157886484) - All the cards are wild and foiled. by `@itiseren`
 - [French Tarot Cavalier Card](https://github.com/Desmero/FrenchTarotCavalierCard) - 增加新的卡牌点数 C（Cavalier，骑士），来自法国塔罗牌。 by [@Desmero](https://github.com/Desmero/FrenchTarotCavalierCard)
 - [Gimmicky decks pack](https://discord.com/channels/1116389027176787968/1215786968433164328) - 自制牌组合集。 by `@Kusoro`
   - Joker Deck - 开局时获得 **2** 张随机 **永恒** 小丑牌。
@@ -127,6 +134,7 @@
   - "Jokers for Hire" Deck - 所有小丑牌提供小丑牌槽位 **+1**，但小丑牌和小丑补充包的价格**指数**增加。
   - Perfect Precision Deck - +1 hands, discards and hand size. Start with a negative The Sniper Joker. Ante scales X1.5 as fast.
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - 击败 Boss 盲注后获得**负片标签**，小丑牌槽位 **-1**。 by `@Blackbando`
+- [Randomizer Deck](https://github.com/Hellyom/HellyomBalatroMods) - The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by [@Hellyom](https://github.com/Hellyom)
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - 开局时牌组中只有增强的 A、K、Q、J、10。 by `@UnknownEternity`
 - [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - 小丑牌和消耗牌以**原价**出售。 by `@Rose Happy`
 - [Sylvie's Silliness](https://github.com/NewtTheFish/SylvieSilly) - 自制牌组合集。 by [@NewtTheFish](https://github.com/NewtTheFish)
@@ -134,8 +142,10 @@
   - Sulfur Deck - 开局时拥有一张死神塔罗牌和库存过剩优惠券；小丑牌出现概率降低，相应的塔罗牌和星球牌概率增加。
   - Aurora Deck - 开局时拥有一张光环幻灵牌；小丑和出现的卡牌获得“版本”；小丑牌槽位和手牌数 -1。
   - Hallowed Deck - 塔罗牌和星球牌不再出现在商店中；卡牌默认会出现在商店中（不应该会影响补充包，但我还没用充分测试）。
+- [Turquoise Deck](https://discord.com/channels/1116389027176787968/1221088657251897344) - +1 hand size, -1 discard, At the end of the round, change suit and rank of the cards in hand. by `@Nrio`
 - [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - 开局时牌组中的点数、花色、增强、版本和蜡封都是随机的。 by [@Steamo](https://github.com/Steamopollys)
 - [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - 商店额外出售 **1** 张优惠券，优惠券降价 **20%**。 by `@Tianjing`
+- [Wild Deck](https://discord.com/channels/1116389027176787968/1220733310360359033/1220733397899542630) - Start with a Deck full of wild cards. by `@itiseren`
 
 ### 功能
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 在蓝注及更高的赌注中加入“库存过剩”优惠券（商店内卡牌槽位 +1） by [@Encarvlucas](https://github.com/encarvlucas)
@@ -144,8 +154,8 @@
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - 在选项界面显示种子，并且随时都可以复制，同样适用于非种子局。Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - 快速 SL。 by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - 让鼠标和手柄操作更加简单高效。例如长按右键拖动可以多选卡牌。 by [@Kooluve](https://github.com/Kooluve)
-- ~~[Better Stack](https://github.com/WilsontheWolf/Better-Stack) - 当游戏崩溃时输出更有用的栈跟踪信息。 by [@WilsontheWolf](https://github.com/WilsontheWolf)~~ *([已合并](https://github.com/Steamopollys/Steamodded/pull/38)到 Steamodded)*
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - 修改并降低了橙注和金注的难度。 by [@kjossul](https://github.com/kjossul)
+- [Choose First Shop Joker](https://www.nexusmods.com/balatro/mods/11/) - This mod adds a way to choose the first joker that spawns. by [@infarctus](https://github.com/Infarcactus)
 - [Collection Fix](https://github.com/GoldenEpsilon/Balatro_CollectionFix) - 修复收藏界面以显示非原版游戏的卡牌。 by [@Golden Epsilon](https://github.com/GoldenEpsilon)
 - [Custom hand size](https://github.com/ScottMono/BalatroMods) - 可以在代码中设定手牌数量，便于测试。 by [@ScottMono](https://github.com/ScottMono)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - 开启游戏内置的 debug 菜单。按 TAB 键显示快捷键。 by [@MathIsFun_](https://github.com/MathIsFun0)
@@ -155,7 +165,9 @@
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - 刷新商店全部免费！可能会破坏游戏体验。 by `@Tianjing`
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - 商店内卡牌槽位 +2。 by `@MonkeyHiko`
 - [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - 增加基础小丑槽位的数量。 by [@Akita Attribute](https://github.com/AkitaAttribute)
+- [IncreaseSoulProbability](https://github.com/AkitaAttribute/IncreaseSoulProbability) - Increase Soul Spectral Card Probability To Spawn. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - 将得分上限从 1.7e308 增加到了无限大。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
+- [JoJo's Tarots](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Listen to jojo stand name when playing tarots cards. by [@infarctus](https://github.com/Infarcactus)
 - [Masquerade](https://github.com/Amvoled/Masquerade) - 允许卡牌拥有多个图形，随机显示一种。 by [@Amavoleda](https://github.com/Amvoled)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - 增加了一些键盘快捷键。 by [Milck](https://github.com/Mi1cK)
 - [Neow Blessings](https://github.com/kjossul/NeowBlessings) - 开局可以在 4 个祝福中选择 1 个，灵感来自杀戮尖塔。 by [@kjossul](https://github.com/kjossul)
@@ -165,6 +177,7 @@
 - [Rumble](https://github.com/WilsontheWolf/balatro-mods) - 支持手柄震动。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
+- [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 
 ### 界面
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - 显示手牌可以打出哪些牌型。 by [@cantlookback](https://github.com/cantlookback)
@@ -188,21 +201,28 @@
 ### 小丑
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - 增加“烂苹果小丑”。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) - 增加 5 个小丑。 by [@Betmma](https://github.com/betmma)
+- [Bunco](https://github.com/Firch/Bunco) - Adds 7 more Jokers. by [@Firch](https://github.com/Firch)
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - 增加一些小丑。 by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - 增加 17 个小丑和 22 个逆位塔罗牌。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
+- [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - Adds fused Jokers to the game, encountered via owning two compatible Jokers. by `@Numbuh214`
 - [LushMod](https://github.com/lusciousdev/LushMod) - 增加 9 个小丑。 by [@lusciousdev](https://github.com/lusciousdev)
 - [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - 增加 7 个牌组和 31 个小丑。 by [@Mikadoe](https://github.com/MikaSchoenmakers)
 - [MoreFluff](https://notmario.github.io/MoreFluff/) - 增加一些小丑。 by [@notmario](https://github.com/notmario)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - 增加一些小丑。 by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - 增加一些小丑。安装前请阅读说明。 by [@Mysthaps](https://github.com/Mysthaps)
+- [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
+- [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
+- [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - 一系列主题小丑。制作中。  by [@Blizzow](https://github.com/BlizzowX)
 
 ### 蜡封
+- [Black Seal](https://www.nexusmods.com/balatro/mods/9/) - Adds a Black Seal to the game. by [@infarctus](https://github.com/Infarcactus)
 - [Green Seal](https://github.com/AxBolduc/GreenSeal) - 添加绿色蜡封，当丢弃时，将使本回合的手牌数加 1。如果一张带有绿色蜡封的卡牌被记分，将给予 x0.75 倍率。 by [@AxBolduc](https://github.com/AxBolduc)
 - [Silver Seal](https://github.com/mwithington/SilverSeal) - 添加银色蜡封，会对卡牌随机添加一种版本效果，当这张牌打出后会改为另一种新的版本效果。这张牌只有至少打出过一次其版本才会生效。 [@mwithington](https://github.com/mwithington), `@AxBolduc`
 
 ### 花色
 - [Hanafuda Hybrid](https://github.com/tvroonhove/HanafudaHybridMod) - 将常规牌组变成混合的花札牌，相应地调整了基础筹码。  by [@Shirou97](https://github.com/tvroonhove)
+- [InkAndColor](https://github.com/RattlingSnow353/InkAndColor) - This mod is based on sixsuits(check them out), Adds two new suits: Ink & Color. by [@RattlingSnow353](https://github.com/RattlingSnow353)
 - [Musical Suit](https://github.com/itayfeder/MusicalSuit) - 增加新花色、小丑、塔罗牌和盲注。 by [@itayfeder](https://github.com/itayfeder)
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - 增加两种新花色：星星和月亮。 by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
 
@@ -212,8 +232,11 @@
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - 我只想要一个更简单的方法分享我的（或其他人的）纹理包。 by [@Alexse13](https://github.com/alexse13dev)
 - [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) - 修改了标准卡牌的颜色，适用于三种主要色盲类型的人群。 by `@za0za_0`, `@Morn`, `@fridaywitch`
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - 将塔罗牌替换为权力的游戏版本 by `@Zabuza`
+- [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - Adds a color gradient to the suits. by `@Dec`
+- [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - Replaces default clubs with high contrast clubs, while removing the gradient from them, 2x only. by `@moonlitstargazer`
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - 修改了标准卡牌的颜色。 by `@Zabuza`
 - [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - 修改了增强卡牌的纹理，使其适配卡牌材质变化的图案。 by `@Luna`
+- [Ogtextures](https://github.com/UppedHealer8521/Ogtextures) - the original textures from balatro 0.8.8. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Persona Tarot](https://discord.com/channels/1116389027176787968/1219528214486192138) - 将塔罗牌替换为女神异闻录系列版本 by `@Sunday`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - 修改了标准卡牌的颜色。 by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - 修改了标准卡牌的颜色，将 4 种花色的扑克牌颜色分别修改为红色、绿色、蓝色和紫色。 by `@ywle`
@@ -224,6 +247,7 @@
 
 ### 工具
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - 加载所有卡牌背面的素材。 by [@Kenny Stone](https://github.com/Ken-Shi)
+- [Sound Util](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Utility mod to facilitate adding sound. by [@infarctus](https://github.com/Infarcactus)
 
 ---
 
@@ -232,6 +256,7 @@
 - [Center Hook](https://github.com/nicholassam6425/balatro-mods) - An api/hook to add center cards (joker, voucher, booster pack, consumable cards) to the game. by [@arachnei](https://github.com/nicholassam6425)
 - [JS_Center](https://github.com/JopStro/BalatroMods) - 增加新卡牌。 by [@JopStro](https://github.com/JopStro)
 - [JS_Sprite](https://github.com/JopStro/BalatroMods) - 自定义和扩大图集。 by [@JopStro](https://github.com/JopStro)
+- [Seal API](https://github.com/jacobr1227/double_seals) - Easier to add Seal. by [@jacobr1227](https://github.com/jacobr1227)
 
 ### 盲注
 - [Myst's Boss Blinds](https://github.com/Mysthaps/BalatroMods) - 增加一些盲注。 by [@Mysthaps](https://github.com/Mysthaps)
@@ -250,6 +275,7 @@
 - [Buffon Deck](https://github.com/JopStro/BalatroMods) - 开局时获得一个巨型小丑包。 by [@JopStro](https://github.com/JopStro)
 
 ### 功能
+- [Better black-stake](https://github.com/System-of-Root/Roots_Balatro_Mods) - Makes it so Eternal Jokers can always appear in shops. Makes blackstake increse the odds of Eternal Jokers from 30% to 50%. by [@Tessy of Root](https://github.com/System-of-Root)
 - [Hand of Six](https://discord.com/channels/1116389027176787968/1218775422066622585) - 允许选择和打出 6 张牌。 by `@ilikecheese`
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 
@@ -267,6 +293,11 @@
 ### 星球
 - [Ganymede](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#ganymede-modsc_ganymedelua) - A planet card that levels up all hands that contain flushes. by [@arachnei](https://github.com/nicholassam6425)
 
+### 蜡封
+- [Double Seals](https://github.com/jacobr1227/double_seals) - Adds new Double versions of the 4 base game seals as well as all my other seal mods. by [@jacobr1227](https://github.com/jacobr1227)
+- [Orange Seals](https://github.com/jacobr1227/double_seals) - Adds new Orange seal When discarded, enhances a random card. by [@jacobr1227](https://github.com/jacobr1227)
+- [Silver Seals](https://github.com/jacobr1227/double_seals) - Adds new Silver seal When held in hand at end of round, creates 1 spectral card. by [@jacobr1227](https://github.com/jacobr1227)
+
 ### 幻灵
 - [Humanity](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#bezos-modsc_bezoslua) - An example spectral card that gives you $100 on use. by [@arachnei](https://github.com/nicholassam6425)
 
@@ -283,14 +314,25 @@
 
 ## 模组 (依赖 [**Lovely**](https://github.com/ethangreen-dev/lovely-injector))
 
+### 牌组
+- [Buffoon Deck](https://thunderstore.io/c/balatro/p/JoStro/json) - Simple custom deck that gives you a Jumbo Buffoon Pack at the start of a run. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
+
+### 小丑
+- [Parrot Joker](https://thunderstore.io/c/balatro/p/JoStro/Parrot_Joker/) - A custom joker that copies the abilities of other jokers at random. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
+
 ### 翻译
 - [ProperRussian](https://github.com/Nitablade/Balatro_ProperRussian) - 俄语翻译。 by [@Nitablade](https://github.com/Nitablade)
+
+### 工具
+- [json](https://thunderstore.io/c/balatro/p/JoStro/json/) - Exposes json.lua as a module using lovely. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
+- [JSUtils](https://thunderstore.io/c/balatro/p/JoStro/JSUtils/) - Lets mods add item prototypes, descriptions and custom sprites with simple json configuration files. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 
 ---
 
 ## 模组 (其他)
 ### 纹理
 - [Four-color deck](https://discord.com/channels/1116389027176787968/1219422385451700304) - 将牌的颜色修改为扑克牌的标准颜色。 by `@FabianPEKS`, [@owennerd123](https://www.reddit.com/user/owennerd123/) 
+- [Mekai's Card Back Collection](https://discord.com/channels/1116389027176787968/1223241971154292808) - A collection of card back textures intended for Balatro mods. by `@Pink/Mekai`
 - [Remove Gradient from High Contrast Cards](https://discord.com/channels/1116389027176787968/1217950156318707813) - 当你打开高对比度花色选项时，卡牌会有渐变色，顶部较暗，底部较亮。此模组移除了渐变让颜色更加平滑。 by `@Hyphen-ated`
 
 ---
