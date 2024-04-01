@@ -95,12 +95,12 @@ Collect all Balatro mods and tools, welcome to add!
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 
 ### Decks
-- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
+- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AbsoluteDeck.lua) - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
 - [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 - [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
-- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
+- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - Create a special deck that only contains 8s! by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which **doubles** all probabilities, both bad and good! by `@Blackbando`
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards by **1**! by `@Tianjing`
@@ -138,13 +138,13 @@ Collect all Balatro mods and tools, welcome to add!
   - Aurora Deck - Start with an Aura card; Jokers and Playing cards always have editions; -1 joker slot, -1 hand.
   - Hallowed Deck - Planets and Tarots no longer appear in the shop. Playing Cards now appear in the shop by deafult.
 - [Turquoise Deck](https://discord.com/channels/1116389027176787968/1221088657251897344) - +1 hand size, -1 discard, At the end of the round, change suit and rank of the cards in hand. by `@Nrio`
-- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
+- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/UltimateRandom.lua) - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
 - [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - Include a new deck which add **1** voucher to shop when entering and **20%** off for vouchers in shop. by `@Tianjing`
 - [Wild Deck](https://discord.com/channels/1116389027176787968/1220733310360359033/1220733397899542630) - Start with a Deck full of wild cards. by `@itiseren`
 
 ### Functionality
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
-- [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AchievementsEnabler.lua) - Mod to activate Achievements. by [@Steamo](https://github.com/Steamopollys)
+- [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AchievementsEnabler.lua) - Mod to activate Achievements. by [@Steamo](https://github.com/Steamopollys)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
@@ -181,14 +181,14 @@ Collect all Balatro mods and tools, welcome to add!
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - Peer into the future of your deck (see upcoming draws). by [@thevdude](https://gist.github.com/theVDude)
 - [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! [@DivvyCr](https://github.com/DivvyCr)
-- [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
+- [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz)
 - [Hitboxes](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin hitboxes. Also shows some other debug information. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Hold For Final Hand Score](https://github.com/Wiwiweb/BalatroMods/blob/main/HoldForFinalHandScore.lua) - Pauses a moment for the final Chip X Mult count, and another moment for the final hand chip total. Especially noticeable on big hands that trigger flames. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
-- [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
+- [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)

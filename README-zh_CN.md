@@ -100,12 +100,12 @@
 
 
 ### 牌组
-- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AbsoluteDeck.lua) - 开局时牌组中都是**多彩玻璃**牌。 by [@Steamo](https://github.com/Steamopollys)
+- [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AbsoluteDeck.lua) - 开局时牌组中都是**多彩玻璃**牌。 by [@Steamo](https://github.com/Steamopollys)
 - [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - 开局时牌组中只有 **4 种花色的 A 各一张**，回合结束后获得免费的**超级标准包**。 by `@Chamels`, `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - 开局时获得**星球牌**相关小丑和优惠券。 by `@Vicendithas`
 - [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - 回合结束后获得免费的**超级标准包**。 by `@Rose Happy`
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - 开局时获得**清仓特卖**优惠券。by `@Neon`
-- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/DeckOf4s.lua) - 开局时牌组中都是 **4** 点。 by [@Steamo](https://github.com/Steamopollys)
+- [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/DeckOf4s.lua) - 开局时牌组中都是 **4** 点。 by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - 开局时牌组中都是 **8** 点。 by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - 将所有以数字标出的概率**翻倍**。 by `@Blackbando`
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - 被丢弃的手牌点数提高 **1**。 by `@Tianjing`
@@ -143,13 +143,13 @@
   - Aurora Deck - 开局时拥有一张光环幻灵牌；小丑和出现的卡牌获得“版本”；小丑牌槽位和手牌数 -1。
   - Hallowed Deck - 塔罗牌和星球牌不再出现在商店中；卡牌默认会出现在商店中（不应该会影响补充包，但我还没用充分测试）。
 - [Turquoise Deck](https://discord.com/channels/1116389027176787968/1221088657251897344) - +1 hand size, -1 discard, At the end of the round, change suit and rank of the cards in hand. by `@Nrio`
-- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/UltimateRandom.lua) - 开局时牌组中的点数、花色、增强、版本和蜡封都是随机的。 by [@Steamo](https://github.com/Steamopollys)
+- [Ultimate Random Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/UltimateRandom.lua) - 开局时牌组中的点数、花色、增强、版本和蜡封都是随机的。 by [@Steamo](https://github.com/Steamopollys)
 - [Voucher Deck](https://discord.com/channels/1116389027176787968/1212498071649521694) - 商店额外出售 **1** 张优惠券，优惠券降价 **20%**。 by `@Tianjing`
 - [Wild Deck](https://discord.com/channels/1116389027176787968/1220733310360359033/1220733397899542630) - Start with a Deck full of wild cards. by `@itiseren`
 
 ### 功能
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 在蓝注及更高的赌注中加入“库存过剩”优惠券（商店内卡牌槽位 +1） by [@Encarvlucas](https://github.com/encarvlucas)
-- [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/AchievementsEnabler.lua) - 激活成就。 by [@Steamo](https://github.com/Steamopollys)
+- [Achievements Enabler](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AchievementsEnabler.lua) - 激活成就。 by [@Steamo](https://github.com/Steamopollys)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 在所有开局都加入“库存过剩”优惠券（商店内卡牌槽位 +1） by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - 在选项界面显示种子，并且随时都可以复制，同样适用于非种子局。Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by `@infarctus`
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - 快速 SL。 by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
@@ -186,14 +186,14 @@
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - 界面模组，可以创建、保存、加载、分享自定义的牌组。 by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - 查看即将抽到的手牌。 by [@thevdude](https://gist.github.com/theVDude)
 - [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - 实时预览手牌得分！ [@DivvyCr](https://github.com/DivvyCr)
-- [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/EscapeExitButton.lua) - 在 esc 菜单增加了退出按钮。 by [@Steamo](https://github.com/Steamopollys)
+- [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/EscapeExitButton.lua) - 在 esc 菜单增加了退出按钮。 by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - 在 esc 菜单增加了 fold（倒闭）按钮，可以快速放弃本局游戏并显示结算画面。 by [@happinyz](https://github.com/happinyz)
 - [Hitboxes](https://discord.com/channels/1116389027176787968/1209857245316255744) - 显示游戏内置的碰撞盒。也会显示一些其他的 debug 信息。 by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Hold For Final Hand Score](https://github.com/Wiwiweb/BalatroMods/blob/main/HoldForFinalHandScore.lua) - 在显示计算出的筹码和倍率后会暂停一段时间，接着在显示最终的筹码后又会暂停一段时间。当打出冒火特效时暂停效果会特别明显。 by [@Wiwiweb](https://github.com/Wiwiweb)
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - 允许自定义游戏光标。 by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - 重新查看刚刚结束的一局游戏。 by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - 对主菜单界面进行了微调。 by `@termisaal`
-- [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/MoreSpeeds.lua) - 更多的速度选项！ by [@Steamo](https://github.com/Steamopollys)
+- [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - 更多的速度选项！ by [@Steamo](https://github.com/Steamopollys)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - 竞速计时器。 by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - 失败并不会结束本局游戏，而是重置底注。 by [@Amvoled](https://github.com/Amvoled)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
