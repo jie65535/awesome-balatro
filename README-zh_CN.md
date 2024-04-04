@@ -87,7 +87,7 @@
 
 ### 挑战
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - 每回合只能出一次牌。 by `@Prokop :D`
-- [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5个新挑战，每个挑战都与一个传奇小丑有关。5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
+- [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5个新挑战，每个挑战都与一个传奇小丑有关。 by [@Betmma](https://github.com/betmma)
 - [Feed the Vampire](https://github.com/morpline/FeedTheVampire) - 只会获得幻视、迈达斯面具和吸血鬼小丑。 by [@Morpline](https://github.com/morpline)
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - 开局牌组全部为黄金牌且获得金色蜡封，所有卡牌售价 x5，移除吸血鬼。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) - 开局时获得一个永恒负片乌合之众，你必须利用普通小丑牌来赚钱并取胜。 by [@UppedHealer8521](https://github.com/UppedHealer8521)
@@ -247,7 +247,7 @@
 
 ### 工具
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - 加载所有卡牌背面的素材。 by [@Kenny Stone](https://github.com/Ken-Shi)
-- [Sound Util](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Utility mod to facilitate adding sound. by [@infarctus](https://github.com/Infarcactus)
+- [Sound Util](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - 用以增加音效的工具。 by [@infarctus](https://github.com/Infarcactus)
 
 ---
 
@@ -295,7 +295,7 @@
 
 ### 蜡封
 - [Double Seals](https://github.com/jacobr1227/double_seals) - 增加双倍蜡封，可以让游戏基础的 4 种蜡封，以及我其他 mod 中的蜡封效果翻倍。 by [@jacobr1227](https://github.com/jacobr1227)
-- [Orange Seals](https://github.com/jacobr1227/double_seals) - 增加橙色蜡封，被弃掉时随机增强一张手牌。Adds new Orange seal When discarded, enhances a random card. by [@jacobr1227](https://github.com/jacobr1227)
+- [Orange Seals](https://github.com/jacobr1227/double_seals) - 增加橙色蜡封，被弃掉时随机增强一张手牌。 by [@jacobr1227](https://github.com/jacobr1227)
 - [Silver Seals](https://github.com/jacobr1227/double_seals) - 增加银色蜡封，如果在回合结束时这张牌还留在手牌中，生成一张幻灵卡。 by [@jacobr1227](https://github.com/jacobr1227)
 
 ### 幻灵
