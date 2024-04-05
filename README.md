@@ -173,6 +173,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
+- [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 
 ### GUI
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
