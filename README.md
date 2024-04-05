@@ -88,6 +88,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 - [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) - start with a negative eternal riffraff you have to get money and win with just common jokers. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) - Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
+- [Last Stand](https://github.com/Tucaonormal/LastStand) - Adds the Last Stand Challenge to the game: Start with $250; after defeating each Boss Blind, earn $10; you cannot earn money through any other means (including selling cards). by [@Tucaonormal](https://github.com/Tucaonormal)
 
 ### Collections
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@arachnei](https://github.com/nicholassam6425)

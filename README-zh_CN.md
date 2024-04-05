@@ -92,6 +92,7 @@
 - [GoldenChallenge](https://github.com/Mysthaps/BalatroMods/blob/main/GoldenChallenge.lua) - 开局牌组全部为黄金牌且获得金色蜡封，所有卡牌售价 x5，移除吸血鬼。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) - 开局时获得一个永恒负片乌合之众，你必须利用普通小丑牌来赚钱并取胜。 by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) - 结合了所有基础牌组的效果，基础盲注分数 x2。 by [@Aure](https://github.com/Aurelius7309)
+- [谁笑到最后（坚不可摧）](https://github.com/Tucaonormal/LastStand) 初始拥有$250；每次击败BOSS盲注后，获得$10；无法以任何其他方式赚取资金（包括售出牌）。 by [@Tucaonormal](https://github.com/Tucaonormal)
 
 ### 合集
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - 详情见链接。 by [@nicholassam6425](https://github.com/nicholassam6425)
