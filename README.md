@@ -38,6 +38,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Suits](#suits)
     - [Textures](#textures)
     - [Translates](#translates)
+    - [Vouchers](#vouchers)
     - [Utils](#utils)
   - [Mods (Require **Balamod**)](#mods-require-balamod)
     - [API](#api-1)
@@ -54,7 +55,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Spectrals](#spectrals)
     - [Tarots](#tarots)
     - [Translates](#translates-1)
-    - [Vouchers](#vouchers)
+    - [Vouchers](#vouchers-1)
   - [Mods (Require **Lovely**)](#mods-require-lovely)
     - [Decks](#decks-2)
     - [Jokers](#jokers-2)
@@ -62,6 +63,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Utils](#utils-1)
   - [Mods (Other)](#mods-other)
     - [Textures](#textures-1)
+  - [Resources](#resources)
 
 ## Tools
 
@@ -70,6 +72,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
+- [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 
 ## Mod Loaders
@@ -80,6 +83,7 @@ Collect all Balatro mods and tools, welcome to add!
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### API
+- [Balatrobot](https://github.com/besteon/balatrobot) - A Botting API for Balatro. by [@Besteon](https://github.com/besteon)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
 
 ### Challenges
@@ -153,6 +157,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
+- [Better Balatro](https://discord.com/channels/1116389027176787968/1223603584285937774) - A mod that changes the gameplay for a fresh Balatro™️ experience! by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - Rework of orange and gold stakes, making them less challenging and reducing the need to reset for a good start. by [@kjossul](https://github.com/kjossul)
 - [Choose First Shop Joker](https://www.nexusmods.com/balatro/mods/11/) - This mod adds a way to choose the first joker that spawns. by [@infarctus](https://github.com/Infarcactus)
@@ -160,6 +165,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Custom hand size](https://github.com/ScottMono/BalatroMods) - Sets hand size to a number of your choice. Good for testing mods or just having fun. by [@ScottMono](https://github.com/ScottMono)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin debug menu. Press TAB to show keybinds. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [DisableVerdantLeaf](https://github.com/V-rtualized/DisableVerdantLeaf) - Disable Verdant Leaf (All cards debuffed until 1 Joker Sold) on specific challenge runs. by [@V-rtualized](https://github.com/V-rtualized)
+- [EditionTagBlacklist](https://github.com/AutumnMood924/EditionTagBlacklist) - Makes edition tags not suck. lets you specify a list of jokers that can't be affected by Foil Tag, Holographic Tag, Polychrome Tag, or Negative Tag. by [@AutumnMood](https://github.com/AutumnMood924)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
@@ -178,7 +184,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
-- [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 
 ### GUI
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
@@ -186,7 +191,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - Peer into the future of your deck (see upcoming draws). by [@thevdude](https://gist.github.com/theVDude)
-- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! [@DivvyCr](https://github.com/DivvyCr)
+- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr)
+- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr)
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz)
 - [Hitboxes](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin hitboxes. Also shows some other debug information. by [@MathIsFun_](https://github.com/MathIsFun0)
@@ -195,15 +201,18 @@ Collect all Balatro mods and tools, welcome to add!
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
+- [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 
 ### Jokers
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - Adds 7 more Jokers. by [@Firch](https://github.com/Firch)
+- [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by `@LunaAstraCassiopeia`
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - Adds fused Jokers to the game, encountered via owning two compatible Jokers. by `@Numbuh214`
@@ -213,7 +222,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
+- [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) - Adds 28 jokers to the game. by [@Matelote](https://github.com/batabata3)
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
+- [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by `@DVRP`
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. *WIP*. by [@Blizzow](https://github.com/BlizzowX)
@@ -237,16 +248,21 @@ Collect all Balatro mods and tools, welcome to add!
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - Replaces Tarot cards with Game of Thrones Tarot (HBO). by `@Zabuza`
 - [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - Adds a color gradient to the suits. by `@Dec`
 - [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - Replaces default clubs with high contrast clubs, while removing the gradient from them, 2x only. by `@moonlitstargazer`
+- [Improved Booster Tarots](https://github.com/Ard1tion/Improved-Booster-Tarots) - A Retexture of all of the "booster" tarots to make them look like their effects. by [@Ardition](https://github.com/Ard1tion)
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
 - [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - Modified enhancement textures to fit the pattern of changing the material of the cards. by `@Luna`
 - [Ogtextures](https://github.com/UppedHealer8521/Ogtextures) - the original textures from balatro 0.8.8. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Persona Tarot](https://discord.com/channels/1116389027176787968/1219528214486192138) - Replaces Tarot cards with their respective versions from the Persona video game series. by `@Sunday`
+- [Random Dice Blinds](https://discord.com/channels/1116389027176787968/1224728153310887956) - Replaces the Blind chips with imagery of Random Dice bosses. by `@Assassin Dice`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
+
+### Vouchers
+- [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 10 More Vouchers! by [@Betmma](https://github.com/betmma)
 
 ### Utils
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - systematically loads all the card back files into the system. by [@Kenny Stone](https://github.com/Ken-Shi)
@@ -311,7 +327,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
 
 ### Vouchers
-- [Coupon Book](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#hobby-shop-modsv_hobby_shoplua) - A voucher card that allows you to refresh purchased booster packs. by [@arachnei](https://github.com/nicholassam6425)
+- [Hobby Shop](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#hobby-shop-modsv_hobby_shoplua) - A voucher card that allows you to refresh purchased booster packs. by [@arachnei](https://github.com/nicholassam6425)
 
 ---
 
@@ -337,5 +353,11 @@ Collect all Balatro mods and tools, welcome to add!
 - [Four-color deck](https://discord.com/channels/1116389027176787968/1219422385451700304) - This mod change the default deck to match the standard colors used in four color decks in poker. by `@FabianPEKS`, [@owennerd123](https://www.reddit.com/user/owennerd123/) 
 - [Mekai's Card Back Collection](https://discord.com/channels/1116389027176787968/1223241971154292808) - A collection of card back textures intended for Balatro mods. by `@Pink/Mekai`
 - [Remove Gradient from High Contrast Cards](https://discord.com/channels/1116389027176787968/1217950156318707813) - When you turn on the game option for high contrast suit colors, there's a gradient applied to the faces of all the cards -- the pips are lighter at the top of the card and darker at the bottom. Here's a simple graphical mod to remove this gradient so the colors are flat. by `@Hyphen-ated`
+
+---
+
+## Resources
+- [Color Palettes](https://discord.com/channels/1116389027176787968/1223843446339665930) - Includes Spectral, Planet, Tarot, and jokers. by `@Crimson Heart`
+- [Community Asset Resources](https://discord.com/channels/1116389027176787968/1224362333208444989) - If you've got a cool asset you want to share with everyone, then this is the thread to post it!
 
 **[⬆ back to top](#Awesome-Balatro)**

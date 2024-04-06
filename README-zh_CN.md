@@ -30,6 +30,7 @@
     - [API](#api)
     - [挑战](#挑战)
     - [合集](#合集)
+    - [消耗卡](#消耗卡)
     - [牌组](#牌组)
     - [功能](#功能)
     - [界面](#界面)
@@ -38,8 +39,9 @@
     - [花色](#花色)
     - [纹理](#纹理)
     - [翻译](#翻译)
+    - [优惠券](#优惠券)
     - [工具](#工具-1)
-  - [模组 (依赖 **Balamod**)](#模组-依赖-balamod)
+  - [模组 (依赖 Balamod)](#模组-依赖-balamod)
     - [API](#api-1)
     - [盲注](#盲注)
     - [卡包](#卡包)
@@ -54,7 +56,7 @@
     - [幻灵](#幻灵)
     - [塔罗](#塔罗)
     - [翻译](#翻译-1)
-    - [优惠券](#优惠券)
+    - [优惠券](#优惠券-1)
   - [模组 (依赖 **Lovely**)](#模组-依赖-lovely)
     - [牌组](#牌组-2)
     - [小丑](#小丑-2)
@@ -62,6 +64,7 @@
     - [工具](#工具-2)
   - [模组 (其他)](#模组-其他)
     - [纹理](#纹理-1)
+  - [资源](#资源)
 
 
 ## 工具
@@ -71,8 +74,8 @@
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - 本地化工具链，用以翻译游戏图片素材。 by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - 存档管理器，macOS限定。 by [@miku1958](https://github.com/miku1958)
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - 分数计算器。 by [@kleinfreund](https://github.com/kleinfreund)
+- [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - 用网页展示你的小丑牌，就像[这样](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - 基于 OpenCL 的种子搜索器。 by [@MathIsFun_](https://github.com/MathIsFun0)
-
 
 ## 模组加载器
 - [Balamod](https://github.com/UwUDev/balamod) - 模组加载器，注入器和反编译器，支持注入游戏内部代码。 by [@UwUDev](https://github.com/UwUDev)
@@ -83,7 +86,8 @@
 
 
 ### API
-- [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - AIP库，可以注册优惠券，盲注，塔罗牌，音效等。 by [@itayfeder](https://github.com/itayfeder)
+- [Balatrobot](https://github.com/besteon/balatrobot) - 一个bot库，提供自动化交互接口。 by [@Besteon](https://github.com/besteon)
+- [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - 一个库，可以注册优惠券，盲注，塔罗牌，音效等。 by [@itayfeder](https://github.com/itayfeder)
 
 ### 挑战
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - 每回合只能出一次牌。 by `@Prokop :D`
@@ -99,6 +103,9 @@
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - 详情见链接。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - 详情见链接。 by [@Wiwiweb](https://github.com/Wiwiweb)
 
+
+### 消耗卡
+- [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - 增加全新消耗卡类型`炼金卡`及配套！ by [@itayfeder](https://github.com/itayfeder)
 
 ### 牌组
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AbsoluteDeck.lua) - 开局时牌组中都是**多彩玻璃**牌。 by [@Steamo](https://github.com/Steamopollys)
@@ -154,6 +161,7 @@
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - 在所有开局都加入“库存过剩”优惠券（商店内卡牌槽位 +1） by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - 在选项界面显示种子，并且随时都可以复制，同样适用于非种子局。 by `@infarctus`
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - 快速 SL。 by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
+- [Better Balatro](https://discord.com/channels/1116389027176787968/1223603584285937774) - 让游戏可玩性更高。（愚人节） by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - 让鼠标和手柄操作更加简单高效。例如长按右键拖动可以多选卡牌。 by [@Kooluve](https://github.com/Kooluve)
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - 修改并降低了橙注和金注的难度。 by [@kjossul](https://github.com/kjossul)
 - [Choose First Shop Joker](https://www.nexusmods.com/balatro/mods/11/) - 可以在收藏界面选择第一个商店会出现的小丑。 by [@infarctus](https://github.com/Infarcactus)
@@ -161,6 +169,7 @@
 - [Custom hand size](https://github.com/ScottMono/BalatroMods) - 可以在代码中设定手牌数量，便于测试。 by [@ScottMono](https://github.com/ScottMono)
 - [Debug Menu](https://discord.com/channels/1116389027176787968/1209857245316255744) - 开启游戏内置的 debug 菜单。按 TAB 键显示快捷键。 by [@MathIsFun_](https://github.com/MathIsFun0)
 - [DisableVerdantLeaf](https://github.com/V-rtualized/DisableVerdantLeaf) - 在特定的挑战中移除了翠绿之叶（所有卡牌都被削弱直到售出1张小丑牌） by [@V-rtualized](https://github.com/V-rtualized)
+- [EditionTagBlacklist](https://github.com/AutumnMood924/EditionTagBlacklist) - 可以编辑标签黑名单，如禁止普通小丑获得负片增强等。 by [@AutumnMood](https://github.com/AutumnMood924)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - 完成某一赌注后可以为所有牌组解锁低于该赌注两级的赌注。 by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - 增加快捷键，可以快速选择同花、葫芦等牌型。 by [Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - 刷新商店全部免费！可能会破坏游戏体验。 by `@Tianjing`
@@ -186,6 +195,7 @@
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - 自定义游戏字体。字体文件必须命名为 "font.ttf"。 by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - 界面模组，可以创建、保存、加载、分享自定义的牌组。 by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - 查看即将抽到的手牌。 by [@thevdude](https://gist.github.com/theVDude)
+- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - 浏览曾经打过的牌！ by  [@DivvyCr](https://github.com/DivvyCr)
 - [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - 实时预览手牌得分！ [@DivvyCr](https://github.com/DivvyCr)
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/EscapeExitButton.lua) - 在 esc 菜单增加了退出按钮。 by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - 在 esc 菜单增加了 fold（倒闭）按钮，可以快速放弃本局游戏并显示结算画面。 by [@happinyz](https://github.com/happinyz)
@@ -195,6 +205,7 @@
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - 重新查看刚刚结束的一局游戏。 by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - 对主菜单界面进行了微调。 by `@termisaal`
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - 更多的速度选项！ by [@Steamo](https://github.com/Steamopollys)
+- [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - 在游戏中添加轮盘赌，这样你就可以输掉所有的钱，跑得更快。 by [@Hellyom](https://github.com/Hellyom)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - 竞速计时器。 by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - 失败并不会结束本局游戏，而是重置底注。 by [@Amvoled](https://github.com/Amvoled)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
@@ -205,6 +216,7 @@
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - 增加“烂苹果小丑”。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) - 增加 5 个小丑。 by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - 增加 7 个小丑。 by [@Firch](https://github.com/Firch)
+- [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - 增加 4 个小丑，灵感来自 Inscryption. by `@LunaAstraCassiopeia`
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - 增加一些小丑。 by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - 增加 17 个小丑和 22 个逆位塔罗牌。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - 增加融合小丑，通过两个相兼容的小丑生成。 by `@Numbuh214`
@@ -214,7 +226,9 @@
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - 增加一些小丑。 by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - 增加一些小丑。安装前请阅读说明。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - 增加一些希腊神话相关的小丑。 by [@AbhinavR314](https://github.com/AbhinavR314)
+- [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) - 增加 28+ 个小丑. by [@Matelote](https://github.com/batabata3)
 - [PiJoker](https://github.com/erachlin/PiJoker) - 增加一些与π相关的小丑。 by [@Beeks17](https://github.com/erachlin)
+- [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - 增加一些雨中冒险相关的小丑、优惠券、盲注。 by `@DVRP`
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - 增加一些雨中冒险相关的小丑。 by [@aou](https://github.com/ao-u)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - 增加一些七宗罪相关的小丑，包括3个新挑战。 by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - 增加一系列主题小丑。制作中。  by [@Blizzow](https://github.com/BlizzowX)
@@ -238,16 +252,21 @@
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - 将塔罗牌替换为权力的游戏版本 by `@Zabuza`
 - [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - 为花色增加颜色渐变。 by `@Dec`
 - [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - 将默认的梅花牌改为高对比度，移除其颜色渐变。只包含 x2 大小的图片素材。 by `@moonlitstargazer`
+- [Improved Booster Tarots](https://github.com/Ard1tion/Improved-Booster-Tarots) - 所有塔罗牌卡包的重绘，使其看起来像它们的效果。 by [@Ardition](https://github.com/Ard1tion)
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - 修改了标准卡牌的颜色。 by `@Zabuza`
 - [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - 修改了增强卡牌的纹理，使其适配卡牌材质变化的图案。 by `@Luna`
 - [Ogtextures](https://github.com/UppedHealer8521/Ogtextures) - 小丑牌0.8.8版的贴图。 by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Persona Tarot](https://discord.com/channels/1116389027176787968/1219528214486192138) - 将塔罗牌替换为女神异闻录系列版本 by `@Sunday`
+- [Random Dice Blinds](https://discord.com/channels/1116389027176787968/1224728153310887956) - 用 Random Dice 的图像替换所有盲注。 by `@Assassin Dice`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - 修改了标准卡牌的颜色。 by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - 修改了标准卡牌的颜色，将 4 种花色的扑克牌颜色分别修改为红色、绿色、蓝色和紫色。 by `@ywle`
 
 ### 翻译
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - 由社区制作的法语翻译。 by `The Balatro FR Loc Mod Community`
 - [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - 修改韩语翻译。 by `@DVRP`
+
+### 优惠券
+- [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 增加 10+ 种优惠券。 by [@Betmma](https://github.com/betmma)
 
 ### 工具
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - 加载所有卡牌背面的素材。 by [@Kenny Stone](https://github.com/Ken-Shi)
@@ -257,7 +276,7 @@
 
 ## 模组 (依赖 [Balamod](https://github.com/UwUDev/balamod))
 ### API
-- [Center Hook](https://github.com/nicholassam6425/balatro-mods) - An api/hook to add center cards (joker, voucher, booster pack, consumable cards) to the game. by [@arachnei](https://github.com/nicholassam6425)
+- [Center Hook](https://github.com/nicholassam6425/balatro-mods) - 一个API/钩子，用于将卡（小丑卡、优惠券、卡包、消耗卡）添加到游戏中。 by [@arachnei](https://github.com/nicholassam6425)
 - [JS_Center](https://github.com/JopStro/BalatroMods) - 增加新卡牌。 by [@JopStro](https://github.com/JopStro)
 - [JS_Sprite](https://github.com/JopStro/BalatroMods) - 自定义和扩大图集。 by [@JopStro](https://github.com/JopStro)
 - [Seal API](https://github.com/jacobr1227/double_seals) - 更方便地增加蜡封。 by [@jacobr1227](https://github.com/jacobr1227)
@@ -340,5 +359,9 @@
 - [Remove Gradient from High Contrast Cards](https://discord.com/channels/1116389027176787968/1217950156318707813) - 当你打开高对比度花色选项时，卡牌会有渐变色，顶部较暗，底部较亮。此模组移除了渐变让颜色更加平滑。 by `@Hyphen-ated`
 
 ---
+
+## 资源
+- [Color Palettes](https://discord.com/channels/1116389027176787968/1223843446339665930) - 包括游戏使用的各种颜色调色板。 by `@Crimson Heart`
+- [Community Asset Resources](https://discord.com/channels/1116389027176787968/1224362333208444989) - 社区共享的资源收集帖
 
 **[⬆ 回到顶部](#Awesome-Balatro)**
