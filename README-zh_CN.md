@@ -198,8 +198,10 @@
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - 竞速计时器。 by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - 失败并不会结束本局游戏，而是重置底注。 by [@Amvoled](https://github.com/Amvoled)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
+- [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - 显示命运之轮的失败概率，并保证每 4 次必定有 1 次成功。 by [@sabslikesobs](https://github.com/sabslikesobs)
 
 ### 小丑
+- [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - 修改古老小丑，现在只会要求牌组中已有的花色。 by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - 增加“烂苹果小丑”。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) - 增加 5 个小丑。 by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - 增加 7 个小丑。 by [@Firch](https://github.com/Firch)
@@ -214,6 +216,7 @@
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - 增加一些希腊神话相关的小丑。 by [@AbhinavR314](https://github.com/AbhinavR314)
 - [PiJoker](https://github.com/erachlin/PiJoker) - 增加一些与π相关的小丑。 by [@Beeks17](https://github.com/erachlin)
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - 增加一些雨中冒险相关的小丑。 by [@aou](https://github.com/ao-u)
+- [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - 增加一些七宗罪相关的小丑，包括3个新挑战。 by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - 增加一系列主题小丑。制作中。  by [@Blizzow](https://github.com/BlizzowX)
 
 ### 蜡封
@@ -284,7 +287,7 @@
 - [Gay Mod](https://github.com/HeyImKyu/balatro-gay) - 将顺子（Straight，直的，异性恋）改为同性恋（Gay）。 by [@HeyImKyu](https://github.com/HeyImKyu), [@Skadi](https://github.com/Skadihehe)
 
 ### 小丑
-- [Jokers](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#jokers-modsj_jokerslua) - 增加 1 张示例的小丑牌，每张打出的牌给予 +2 倍率。An example joker card that gives all played cards +2 mult. by [@arachnei](https://github.com/nicholassam6425)
+- [Jokers](https://github.com/nicholassam6425/balatro-mods?tab=readme-ov-file#jokers-modsj_jokerslua) - 增加 1 张示例的小丑牌，每张打出的牌给予 +2 倍率。 by [@arachnei](https://github.com/nicholassam6425)
 - [Parrot Joker](https://github.com/JopStro/BalatroMods) - 增加一些小丑牌和塔罗牌。 by [@JopStro](https://github.com/JopStro)
 - [ShamPack](https://github.com/GoldenEpsilon/ShamPack) - 增加一些小丑牌，塔罗牌，增强效果和其他改动。 by [@Golden Epsilon](https://github.com/GoldenEpsilon) and `@DankShamwow`
 - [Slutty Joker](https://github.com/HeyImKyu/balatro-slutty-joker) - 增加“淫荡小丑”，当打出 6 和 9 时获得 x2 倍率。 by [@HeyImKyu](https://github.com/HeyImKyu), [@UwuDev](https://github.com/UwUDev)
@@ -333,7 +336,7 @@
 ## 模组 (其他)
 ### 纹理
 - [Four-color deck](https://discord.com/channels/1116389027176787968/1219422385451700304) - 将牌的颜色修改为扑克牌的标准颜色。 by `@FabianPEKS`, [@owennerd123](https://www.reddit.com/user/owennerd123/) 
-- [Mekai's Card Back Collection](https://discord.com/channels/1116389027176787968/1223241971154292808) - 为制作 mod 准备的卡牌背面材质合集。 by `@Pink/Mekai`
+- [Mekai's Card Back Collection](https://discord.com/channels/1116389027176787968/1223241971154292808) - 为制作 mod 准备的卡牌背面纹理合集。 by `@Pink/Mekai`
 - [Remove Gradient from High Contrast Cards](https://discord.com/channels/1116389027176787968/1217950156318707813) - 当你打开高对比度花色选项时，卡牌会有渐变色，顶部较暗，底部较亮。此模组移除了渐变让颜色更加平滑。 by `@Hyphen-ated`
 
 ---

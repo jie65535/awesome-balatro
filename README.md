@@ -200,6 +200,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
 
 ### Jokers
+- [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - Adds 7 more Jokers. by [@Firch](https://github.com/Firch)
@@ -214,9 +215,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
-- [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. *WIP*. by [@Blizzow](https://github.com/BlizzowX)
-- [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
+- [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. *WIP*. by [@Blizzow](https://github.com/BlizzowX)
 
 ### Seals
 - [Black Seal](https://www.nexusmods.com/balatro/mods/9/) - Adds a Black Seal to the game. by [@infarctus](https://github.com/Infarcactus)
