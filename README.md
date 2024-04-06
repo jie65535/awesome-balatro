@@ -29,6 +29,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [API](#api)
     - [Challenges](#challenges)
     - [Collections](#collections)
+    - [Consumable cards](#consumable-cards)
     - [Decks](#decks)
     - [Functionality](#functionality)
     - [GUI](#gui)
@@ -94,6 +95,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [arachnei's balatro mods](https://github.com/nicholassam6425/balatro-mods) - Collection of balatro mods. by [@arachnei](https://github.com/nicholassam6425)
 - [Myst's Balatro Mods](https://github.com/Mysthaps/BalatroMods) - A collection of mods made by Myst for the game Balatro. by [@Mysthaps](https://github.com/Mysthaps)
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
+
+### Consumable cards
+- [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
 
 ### Decks
 - [Absolute Deck](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/AbsoluteDeck.lua) - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
