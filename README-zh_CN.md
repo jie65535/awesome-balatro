@@ -188,7 +188,8 @@
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - 保持种子快速重开。 by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
-- [Survival Mode](https://github.com/Aurelius7309/Survival) - 增加两种新模式：生存和生存+. by [@Aure](https://github.com/Aurelius7309)
+- [Survival Mode](https://github.com/Aurelius7309/Survival) - 增加两种新模式：生存和生存+。 by [@Aure](https://github.com/Aurelius7309)
+- [UltraHand](https://github.com/xioxin/BalatroMods) - 在收藏菜单中点击卡片即可生成，支持小丑牌、塔罗牌、星球牌、幽灵牌。 by [@xioxin](https://github.com/xioxin)
 
 ### 界面
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - 显示手牌可以打出哪些牌型。 by [@cantlookback](https://github.com/cantlookback)
