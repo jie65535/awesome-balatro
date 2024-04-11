@@ -185,6 +185,7 @@
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - 随机化所有的小丑、优惠券、补充包和消耗牌的图形。 by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - 移除所有小丑。可以用来让一局游戏只包含选择的部分小丑。 by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [Rumble](https://github.com/WilsontheWolf/balatro-mods) - 支持手柄震动。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
+- [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - 保持种子快速重开。 by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - 种子局也能激活成就。 by `@infarctus`
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - 将底注的成长速度降低为线性。 by `@infarctus`
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - 增加两种新模式：生存和生存+. by [@Aure](https://github.com/Aurelius7309)
