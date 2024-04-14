@@ -229,6 +229,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
 - [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by `@DVRP`
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
+- [SDM_0's Stuff](https://github.com/SDM0/SDM_0-s-Stuff) - Adds more Jokers and Challenges to the game. by [@SDM_0](https://github.com/SDM0)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. *WIP*. by [@Blizzow](https://github.com/BlizzowX)
 
