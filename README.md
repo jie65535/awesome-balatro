@@ -37,6 +37,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Jokers](#jokers)
     - [Seals](#seals)
     - [Suits](#suits)
+    - [Tags](#tags)
     - [Textures](#textures)
     - [Translates](#translates)
     - [Vouchers](#vouchers)
@@ -273,6 +274,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [InkAndColor](https://github.com/RattlingSnow353/InkAndColor) - This mod is based on sixsuits(check them out), Adds two new suits: Ink & Color. by [@RattlingSnow353](https://github.com/RattlingSnow353)
 - [Musical Suit](https://github.com/itayfeder/MusicalSuit) - Adds a new suit (Notes ♪). with new jokers, tarot, and blind. by [@itayfeder](https://github.com/itayfeder)
 - [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
+
+### Tags
+- [Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
 
 ### Textures
 - [Baba Decks](https://discord.com/channels/1116389027176787968/1217466648135733328) - A texture mod, using art by Auburn Arcana on Tumblr. Makes the basic + Abandoned decks look like Baba! by `@Blackbando`
