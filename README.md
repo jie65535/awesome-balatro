@@ -139,13 +139,13 @@ Collect all Balatro mods and tools, welcome to add!
 - [Joker Only Deck](https://github.com/mojimoon/MojiBalatro/blob/main/JokerOnlyDeck/JokerOnlyDeck.lua) - All **Consumables** and **Vouchers** are banned, together with related Jokers, Tags and Booster Packs. by [@Mojimoon](https://github.com/mojimoon/)
 - [Legendary Deck](https://discord.com/channels/1116389027176787968/1215385607686066287) - Adds 1 deck (Legendary Deck) and 1 legendary joker (Charon). by `@UnknownEternity`
 - [Mesh Deck](https://discord.com/channels/1116389027176787968/1230941930288844891) - Burglar 2.0 !! by `@Nrio`
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 45 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 60 Jokers and more! by [@Mikadoe](https://github.com/MikaSchoenmakers)
   - Even Steven's Deck - A deck that only contains even cards. Starts with the **Even Steven** joker.
   - Odd Todd's Deck - A deck that only contains odd cards. Starts with the **Odd Todd** joker.
   - Fibonacci Deck - A deck that only contains cards from the Fibonacci Sequence *(Ace, 2, 3, 5, 8)*. Starts with the **Fibonacci** joker.
   - Prime Deck - A deck that only contains prime cards *(2, 3, 5, 7, Ace)*. Starts with the **Prime** joker.
   - Midas's Deck - A deck that only contains Gold Face cards. Starts with the **Midas Mask** joker.
-  - "Jokers for Hire" Deck - All Jokers give +1 Joker slot, but the price of Jokers and Buffoon Packs increase **exponentially**.
+  - "Jokers for Hire" Deck - All Jokers give +1 Joker slot, but the price of Jokers and Buffoon Packs increase per Joker.
   - Perfect Precision Deck - +1 hands, discards and hand size. Start with a negative The Sniper Joker. Ante scales X1.5 as fast.
 - [Number Deck](https://discord.com/channels/1116389027176787968/1229482445074857996) - Swaps the face cards for numbers instead. This mod adds a numerical deck. by `@Matherubik1`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
@@ -242,7 +242,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - Adds fused Jokers to the game, encountered via owning two compatible Jokers. by `@Numbuh214`
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
-- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 7 decks and 45 jokers. by [@Mikadoe](https://github.com/MikaSchoenmakers)
+- [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 60 Jokers and more! by [@Mikadoe](https://github.com/MikaSchoenmakers)
 - [MittMods](https://discord.com/channels/1116389027176787968/1227500439055110175) - This mod adds many different jokers to the game. by `@MittensGCTM`
 - [Mor jokers](https://github.com/morpline/morjokers) | [discord](https://discord.com/channels/1116389027176787968/1230178381342179350) - Adds mor jokers. by [@Morpline](https://github.com/morpline) and [@Blizzow](https://github.com/BlizzowX)
 - [MoreFluff](https://notmario.github.io/MoreFluff/) - Adds more jokers to the game, by [@notmario](https://github.com/notmario)
