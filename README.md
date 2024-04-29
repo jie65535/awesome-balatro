@@ -201,6 +201,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
+- [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
 
