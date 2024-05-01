@@ -80,7 +80,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [The Soul](https://mathisfun0.github.io/The-Soul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 
 ## Mod Loaders
-- [Balamod](https://github.com/UwUDev/balamod) - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
+- [Balamod](https://github.com/balamod/balamod) - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 
@@ -311,7 +311,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ---
 
-## Mods (Require [**Balamod**](https://github.com/UwUDev/balamod))
+## Mods (Require [**Balamod**](https://github.com/balamod/balamod))
 ### API
 - [Center Hook](https://github.com/nicholassam6425/balatro-mods) - An api/hook to add center cards (joker, voucher, booster pack, consumable cards) to the game. by [@arachnei](https://github.com/nicholassam6425)
 - [JS_Center](https://github.com/JopStro/BalatroMods) - adding new card centers to the game. by [@JopStro](https://github.com/JopStro)
