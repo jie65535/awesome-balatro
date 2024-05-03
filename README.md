@@ -234,7 +234,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
-- [Bunco](https://github.com/Firch/Bunco) - Adds 20 new Jokers and hidden features, such as Exotic Hands. by [@Firch](https://github.com/Firch)
+- [Bunco](https://github.com/Firch/Bunco) - Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
@@ -271,6 +271,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Suits
 - [Balatrostruck](https://github.com/AutumnMood924/Balatrostruck) - adds 12 aspects from homestuck as suits with sin jokers. by [@AutumnMood](https://github.com/AutumnMood924)
+- [Bunco](https://github.com/Firch/Bunco) - Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by [@Firch](https://github.com/Firch)
 - [Hanafuda Hybrid](https://github.com/tvroonhove/HanafudaHybridMod) - Turns the regular set of playing cards into hybrid hanafuda cards, and adjusts their base chip value accordingly. by [@Shirou97](https://github.com/tvroonhove)
 - [InkAndColor](https://github.com/RattlingSnow353/InkAndColor) - This mod is based on sixsuits(check them out), Adds two new suits: Ink & Color. by [@RattlingSnow353](https://github.com/RattlingSnow353)
 - [Musical Suit](https://github.com/itayfeder/MusicalSuit) - Adds a new suit (Notes ♪). with new jokers, tarot, and blind. by [@itayfeder](https://github.com/itayfeder)
