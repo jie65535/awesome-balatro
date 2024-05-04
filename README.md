@@ -196,6 +196,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
+- [RerollPacks](https://github.com/DorkDad141/balatro/blob/main/RerollPacks.lua) - Reroll packs when rerolling the shop. by [@DorkDad141](https://github.com/DorkDad141)
 - [Rumble](https://github.com/WilsontheWolf/balatro-mods) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
