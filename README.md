@@ -164,7 +164,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Enhancements
 - [X Card](https://github.com/Numbuh214/X-Card) | [discord](https://discord.com/channels/1116389027176787968/1231769435749220362) - Adds the enhancement "X Card" to the game. X Cards have wild ranks, but two X Cards in the same hand cannot mimic the same rank. by [@Numbuh214](https://github.com/Numbuh214)
-- [Gold's Cards](https://github.com/Numbuh214/X-Card) - Adds the enhancement "Color Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5)
+- [Gold's Cards](https://github.com/Numbuh214/X-Card) - Adds the enhancement "Rainbow Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5)
 
 ### Functionality
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
