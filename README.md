@@ -198,7 +198,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [RerollPacks](https://github.com/DorkDad141/balatro/blob/main/RerollPacks.lua) - Reroll packs when rerolling the shop. by [@DorkDad141](https://github.com/DorkDad141)
-- [Rumble](https://github.com/WilsontheWolf/balatro-mods) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+- [Rumble](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/Rumble) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
@@ -223,7 +223,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
-- [No Background](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+- [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
 - [SeedUnlocker](https://discord.com/channels/1116389027176787968/1229891707793969265) - Allows for entering seeds without Balatro's arbitrary character restrictions. by [@MathIsFun_](https://github.com/mathisfun0)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
@@ -397,6 +397,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [json](https://thunderstore.io/c/balatro/p/JoStro/json/) - Exposes json.lua as a module using lovely. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 - [JSUtils](https://thunderstore.io/c/balatro/p/JoStro/JSUtils/) - Lets mods add item prototypes, descriptions and custom sprites with simple json configuration files. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
+- [ScoreImprovements](https://github.com/WilsontheWolf/balatro-mods/tree/master/lovely/ScoreImprovements) [discord](https://canary.discord.com/channels/1116389027176787968/1235719119093891184) - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by [@WilsontheWolf](https://github.com/WilsontheWolf) 
 
 ---
 
