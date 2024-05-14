@@ -209,6 +209,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
+- [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
 - [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) - Mod for selecting and changing the colours of the main menu background. by [@EmperorGesar](https://github.com/EmperorGesar)
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
