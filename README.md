@@ -192,6 +192,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JimboStats](https://discord.com/channels/1116389027176787968/1228767177411137636) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
 - [JoJo's Tarots](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Listen to jojo stand name when playing tarots cards. by [@infarctus](https://github.com/Infarcactus)
 - [Masquerade](https://github.com/Amvoled/Masquerade) - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
+- [Metal Card Falling Sound Effect](https://github.com/Muddieee/metal_card_falling) - Replaces default steel card activation sound with metal pipe falling sound effect. by [@Muddie](https://github.com/Muddieee)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
 - [Neow Blessings](https://github.com/kjossul/NeowBlessings) - Neow has transformed into a cute little card! Choose between 4 blessings at the start of your run, inspired from Slay the Spire. by [@kjossul](https://github.com/kjossul)
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
