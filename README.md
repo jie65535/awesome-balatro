@@ -61,6 +61,7 @@ Collect all Balatro mods and tools, welcome to add!
   - [Mods (Require **Lovely**)](#mods-require-lovely)
     - [Decks](#decks-2)
     - [Jokers](#jokers-2)
+    - [Miscellaneous](#miscellaneous)
     - [Translates](#translates-2)
     - [Utils](#utils-1)
   - [Mods (Other)](#mods-other)
@@ -390,6 +391,10 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Jokers
 - [Parrot Joker](https://thunderstore.io/c/balatro/p/JoStro/Parrot_Joker/) - A custom joker that copies the abilities of other jokers at random. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
+
+### Miscellaneous
+- [#1 Victory Royale!](https://github.com/Muddieee/balatro_victory_royale) - On win screen, replaces the "YOU WIN!" text with "#1 VICTORY ROYALE!" and the default win music with fortnite default dance. by [@Muddie](https://github.com/Muddieee)
+- [When the impostor is Sun](https://github.com/Muddieee/sun_is_sus) - Renames The Sun tarot card to The Sus and replaces its texture. by [@Muddie](https://github.com/Muddieee)
 
 ### Translates
 - [ProperRussian](https://github.com/Nitablade/Balatro_ProperRussian) - Russian localization for Balatro. by [@Nitablade](https://github.com/Nitablade)
