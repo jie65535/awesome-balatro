@@ -183,7 +183,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [DisableVerdantLeaf](https://github.com/V-rtualized/DisableVerdantLeaf) - Disable Verdant Leaf (All cards debuffed until 1 Joker Sold) on specific challenge runs. by [@V-rtualized](https://github.com/V-rtualized)
 - [EditionTagBlacklist](https://github.com/AutumnMood924/EditionTagBlacklist) - Makes edition tags not suck. lets you specify a list of jokers that can't be affected by Foil Tag, Holographic Tag, Polychrome Tag, or Negative Tag. by [@AutumnMood](https://github.com/AutumnMood924)
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
-- [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [Agoraaa](https://github.com/Agoraaa)
+- [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - Increase cards that are sold in the shop by 2. by `@MonkeyHiko`
@@ -347,6 +347,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 - [Better black-stake](https://github.com/System-of-Root/Roots_Balatro_Mods) - Makes it so Eternal Jokers can always appear in shops. Makes blackstake increse the odds of Eternal Jokers from 30% to 50%. by [@Tessy of Root](https://github.com/System-of-Root)
+- [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Hand of Six](https://discord.com/channels/1116389027176787968/1218775422066622585) - Allows you to select 6 cards to play. by `@ilikecheese`
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 
