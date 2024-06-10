@@ -210,10 +210,12 @@
 
 ### 界面
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - 显示手牌可以打出哪些牌型。 by [@cantlookback](https://github.com/cantlookback)
+- [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) - 当你选择危险动作（如使用生命十字架或咒符）时，弹出确认对话框。 by [@Zei33](https://github.com/Zei33)
 - [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) - 选择和更改主菜单背景的颜色。 by [@EmperorGesar](https://github.com/EmperorGesar)
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - 自定义游戏字体。字体文件必须命名为 "font.ttf"。 by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - 界面模组，可以创建、保存、加载、分享自定义的牌组。 by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - 查看即将抽到的手牌。 by [@thevdude](https://gist.github.com/theVDude)
+- [Deselect All](https://github.com/Zei33/deselect-all-steamodded) - 添加一个取消全选按钮以取消所有高亮显示的卡片。 by [@Zei33](https://github.com/Zei33)
 - [Divvy's History](https://github.com/DivvyCr/Balatro-History) - 浏览曾经打过的牌！ by  [@DivvyCr](https://github.com/DivvyCr)
 - [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - 实时预览手牌得分！ [@DivvyCr](https://github.com/DivvyCr)
 - [Escape Exit Button](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/EscapeExitButton.lua) - 在 esc 菜单增加了退出按钮。 by [@Steamo](https://github.com/Steamopollys)
@@ -340,6 +342,8 @@
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - 按 f2 快速刷新底注1的标签。 by [@arachnei](https://github.com/nicholassam6425)
 
 ### 界面
+- [Balatro Safety](https://github.com/Zei33/balatro-safety-balamod) - 当你选择危险动作（如使用生命十字架或咒符）时，弹出确认对话框。 by [@Zei33](https://github.com/Zei33)
+- [Deselect All](https://github.com/Zei33/deselect-all-balamod) - 添加一个取消全选按钮以取消所有高亮显示的卡片。 by [@Zei33](https://github.com/Zei33)
 - [Gay Mod](https://github.com/HeyImKyu/balatro-gay) - 将顺子（Straight，直的，异性恋）改为同性恋（Gay）。 by [@HeyImKyu](https://github.com/HeyImKyu), [@Skadi](https://github.com/Skadihehe)
 
 ### 小丑
