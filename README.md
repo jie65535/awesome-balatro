@@ -27,6 +27,7 @@ Collect all Balatro mods and tools, welcome to add!
   - [Mod Loaders](#mod-loaders)
   - [Mods (Require **Steamodded**)](#mods-require-steamodded)
     - [API](#api)
+    - [Blinds](#blinds)
     - [Challenges](#challenges)
     - [Collections](#collections)
     - [Consumable cards](#consumable-cards)
@@ -44,7 +45,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Utils](#utils)
   - [Mods (Require **Balamod**)](#mods-require-balamod)
     - [API](#api-1)
-    - [Blinds](#blinds)
+    - [Blinds](#blinds-1)
     - [Boosters](#boosters)
     - [Challenges](#challenges-1)
     - [Collections](#collections-1)
@@ -60,6 +61,7 @@ Collect all Balatro mods and tools, welcome to add!
     - [Vouchers](#vouchers-1)
   - [Mods (Require **Lovely**)](#mods-require-lovely)
     - [Decks](#decks-2)
+    - [Functional](#functional)
     - [Jokers](#jokers-2)
     - [Miscellaneous](#miscellaneous)
     - [Translates](#translates-2)
@@ -94,6 +96,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [OddityAPI](https://github.com/AutumnMood924/OddityAPI) - Adds Oddities to the game as a concept. Doesn't add any content on its own. by [@AutumnMood](https://github.com/AutumnMood924)
 - [Sound Util](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Allows you to play custom sounds. by [@infarctus](https://github.com/Infarcactus)
 
+### Blinds
+- [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000)
+
 ### Challenges
 - [1 Hand? You're Joking?](https://discord.com/channels/1116389027176787968/1214857669932744714) - Challenge with just 1 hand every round. by `@Prokop :D`
 - [5 legendary challenges](https://github.com/betmma/my_balatro_mods) - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
@@ -109,6 +114,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 
 ### Consumable cards
+- [Blanks](https://discord.com/channels/1116389027176787968/1247557789807677480) - Blank consumables spin around and transform into another consumable of the same type when used. by `@jenwalter666`
 - [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
 - [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi)
 - [The Autumn Circus](https://github.com/AutumnMood924/TheAutumnCircus) - A modularized Balatro mod adding a variety of content! by [AutumnMood](https://github.com/AutumnMood924)
@@ -122,6 +128,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - Create a special deck that only contains 8s! by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which **doubles** all probabilities, both bad and good! by `@Blackbando`
+- [Double Decker](https://discord.com/channels/1116389027176787968/1246280922412744774) - Adds a double-stacked deck to the game. by `@Rokk`
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards by **1**! by `@Tianjing`
 - [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - A deck that starts with a **coupon** and **polychromatic** tag for a good start made for gloc. by `@Spellign`
 - [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) - All Ranks and Suits in deck are randomized but heavily **biased** towards a specific type. Enhancements, editions and seals are also biasely added to some cards. by [@Mojimoon](https://github.com/mojimoon/)
@@ -209,10 +216,11 @@ Collect all Balatro mods and tools, welcome to add!
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
+- [Robo Sorting](https://discord.com/channels/1116389027176787968/1248493580537040917) - Adds Joker Sorting with the S key in the shop. by `@Robo`
 
 ### GUI
-- [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
 - [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
+- [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
 - [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) - Mod for selecting and changing the colours of the main menu background. by [@EmperorGesar](https://github.com/EmperorGesar)
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
@@ -226,15 +234,19 @@ Collect all Balatro mods and tools, welcome to add!
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
+- [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
 - [SeedUnlocker](https://discord.com/channels/1116389027176787968/1229891707793969265) - Allows for entering seeds without Balatro's arbitrary character restrictions. by [@MathIsFun_](https://github.com/mathisfun0)
+- [Spectral Recolouring](https://github.com/Eremel/SpectralRecolours) | [discord](https://discord.com/channels/1116389027176787968/1248780371974295592) - Adds a shader to allow easy recolouring of spectral cards. by [@Eremel_](https://github.com/Eremel)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
+- [Trance](https://github.com/MathIsFun0/Trance) | [discord](https://discord.com/channels/1116389027176787968/1248865517112918016) - A mod that lets you change Balatro's colors. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [Incantation](https://github.com/cubeanimataz/Incantation) | [discord](https://discord.com/channels/1116389027176787968/1248924034716930100) - Enables the ability to stack identical consumables. by [@jenwalter666](https://github.com/cubeanimataz), [@MathIsFun_](https://github.com/MathIsFun0)
 
 ### Jokers
 - [5CEBalatro](https://github.com/DPS2004/5CEBalatro) - do jokers have meat? by [@DPS2004](https://github.com/DPS2004), `@The 5CEB server`
@@ -244,12 +256,14 @@ Collect all Balatro mods and tools, welcome to add!
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
+- [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
+- [Joker Evolution](https://github.com/SDM0/Joker-Evolution) | [discord](https://discord.com/channels/1116389027176787968/1249450412143153266) - Gives a few jokers strong evolutions! by [@SDM_0](https://github.com/SDM0)
 - [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - Adds fused Jokers to the game, encountered via owning two compatible Jokers. by `@Numbuh214`
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
 - [Mika's Mod Collection](https://github.com/MikaSchoenmakers/MikasBalatro) - A collection of 60 Jokers and more! by [@Mikadoe](https://github.com/MikaSchoenmakers)
@@ -261,9 +275,10 @@ Collect all Balatro mods and tools, welcome to add!
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
 - [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) - Adds 28 jokers to the game. by [@Matelote](https://github.com/batabata3)
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
-- [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by `@DVRP`
-- [Reverie](https://dvrp-balatro-mods.pages.dev/reverie) - Reverie is a movie-themed Balatro expansion that focuses on providing special shops and various contents around it. by `@DVRP`
+- [Reverie](https://dvrp-balatro-mods.pages.dev/reverie) - Reverie is a movie-themed Balatro expansion that focuses on providing special shops and various contents around it. by [@DVRP](https://github.com/dvrp0)
+- [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by [@DVRP](https://github.com/dvrp0)
 - [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
+- [Ro-Balatro](https://github.com/AlexZGreat/Ro-Balatro) | [discord](https://discord.com/channels/1116389027176787968/1247049217621360640) - A fusion between Balatro and Roblox. by [@AlexZGreat](https://github.com/AlexZGreat)
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
 - [SDM_0's Stuff](https://github.com/SDM0/SDM_0-s-Stuff) - Adds more Jokers and Challenges to the game. by [@SDM_0](https://github.com/SDM0)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
@@ -294,9 +309,11 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Textures
 - [Baba Decks](https://discord.com/channels/1116389027176787968/1217466648135733328) - A texture mod, using art by Auburn Arcana on Tumblr. Makes the basic + Abandoned decks look like Baba! by `@Blackbando`
+- [Balatro '95](https://github.com/Sparktimus/Balatro95) | [discord](https://discord.com/channels/1116389027176787968/1246389947556958240) - Make Balatro look like a Windows 95 game! by `@Duncan Molloy`, [@Sparks](https://github.com/Sparktimus)
 - [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) - A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) - This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
+- [Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) | [discord](https://discord.com/channels/1116389027176787968/1236675603495653416) - Changes card textures into a stylized dark mode. by [@Carroton](https://github.com/CarrotonMan)
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - Replaces Tarot cards with Game of Thrones Tarot (HBO). by `@Zabuza`
 - [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - Adds a color gradient to the suits. by `@Dec`
 - [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - Replaces default clubs with high contrast clubs, while removing the gradient from them, 2x only. by `@moonlitstargazer`
@@ -311,16 +328,20 @@ Collect all Balatro mods and tools, welcome to add!
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
+- [Trans Spectrals](https://discord.com/channels/1116389027176787968/1247528518842191971) - Spectral Cards (and spectral adjacent cards) but trans Spectrans. by `@RadicaAprils`
+- [Spectralsbian](https://discord.com/channels/1116389027176787968/1248729661815521381) - Spectral cards, but with the lesbian flag colours. by `@RadicaAprils`
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
-- [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by `@DVRP`
+- [ProperKorean](https://discord.com/channels/1116389027176787968/1211094025159966790) - Fixes Korean Translation. by [@DVRP](https://github.com/dvrp0)
 
 ### Vouchers
 - [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 10 More Vouchers! by [@Betmma](https://github.com/betmma)
+- [Loop](https://discord.com/channels/1116389027176787968/1248431147784863840) - Adds a new voucher called Loop, allowing certain vouchers to be re-redeemed in the same run. by `@jenwalter666`
 
 ### Utils
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - systematically loads all the card back files into the system. by [@Kenny Stone](https://github.com/Ken-Shi)
+- [Distro](https://github.com/dvrp0/distro) - Adds Discord Rich Presence support. by [@DVRP](https://github.com/dvrp0)
 
 ---
 
@@ -392,6 +413,10 @@ Collect all Balatro mods and tools, welcome to add!
 ### Decks
 - [Buffoon Deck](https://thunderstore.io/c/balatro/p/JoStro/json) - Simple custom deck that gives you a Jumbo Buffoon Pack at the start of a run. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 
+### Functional
+- [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
+- [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
+
 ### Jokers
 - [Parrot Joker](https://thunderstore.io/c/balatro/p/JoStro/Parrot_Joker/) - A custom joker that copies the abilities of other jokers at random. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 
@@ -404,7 +429,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Utils
 - [Altrand](https://discord.com/channels/1116389027176787968/1230007377806229595) - Improved Randomization. by `@tertu`
-- [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+- [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) | [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [json](https://thunderstore.io/c/balatro/p/JoStro/json/) - Exposes json.lua as a module using lovely. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 - [JSUtils](https://thunderstore.io/c/balatro/p/JoStro/JSUtils/) - Lets mods add item prototypes, descriptions and custom sprites with simple json configuration files. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 - [ScoreImprovements](https://github.com/WilsontheWolf/balatro-mods/tree/master/lovely/ScoreImprovements) [discord](https://canary.discord.com/channels/1116389027176787968/1235719119093891184) - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by [@WilsontheWolf](https://github.com/WilsontheWolf) 
