@@ -187,6 +187,7 @@
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - 完成某一赌注后可以为所有牌组解锁低于该赌注两级的赌注。 by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - 增加快捷键，可以快速选择同花、葫芦等牌型。 by [Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - 刷新商店全部免费！可能会破坏游戏体验。 by `@Tianjing`
+- [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - 实时倍速显示，按shift切换倍速，按空格商店重掷，同时禁用debug模式下的FPS显示。 by [@snowylight](https://github.com/snowylight)
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - 商店内卡牌槽位 +2。 by `@MonkeyHiko`
 - [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - 增加基础小丑槽位的数量。 by [@Akita Attribute](https://github.com/AkitaAttribute)
@@ -241,6 +242,7 @@
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) - 增加 5 个小丑。 by [@Betmma](https://github.com/betmma)
 - [Bunco](https://github.com/Firch/Bunco) - 增加 7 个小丑。 by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
+- [Date Jokers](https://github.com/snowylight/DatealiveBalatro) - 增加 13 个以动漫《约会大作战》中精灵角色为原型创作的小丑。 by [@snowylight](https://github.com/snowylight)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - 增加 4 个小丑，灵感来自 Inscryption. by `@LunaAstraCassiopeia`
