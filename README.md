@@ -216,6 +216,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
+- [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
 - [Robo Sorting](https://discord.com/channels/1116389027176787968/1248493580537040917) - Adds Joker Sorting with the S key in the shop. by `@Robo`
 
@@ -260,6 +261,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Bunco](https://github.com/Firch/Bunco) - Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
+- [Date Jokers](https://github.com/snowylight/DatealiveBalatro) - Adds 13 jokers from anime DATE A LIVE. by [@snowylight](https://github.com/snowylight)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
