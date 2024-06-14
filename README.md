@@ -193,6 +193,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Faster Stakes Unlock](https://github.com/Wiwiweb/BalatroMods/blob/main/FasterStakesUnlock.lua) - Winning a run with a stake unlocks the stake 2 levels below for all decks. by [@Wiwiweb](https://github.com/Wiwiweb)
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
+- [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
 - [Hotkeys Collection ](https://github.com/DorkDad141/keyboard-shortcuts) - Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by [@DorkDad141](https://github.com/DorkDad141) based on [@Agoraaa](https://github.com/Agoraaa)'s mod 
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - Increase cards that are sold in the shop by 2. by `@MonkeyHiko`
@@ -216,7 +217,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
-- [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
 - [Robo Sorting](https://discord.com/channels/1116389027176787968/1248493580537040917) - Adds Joker Sorting with the S key in the shop. by `@Robo`
 
