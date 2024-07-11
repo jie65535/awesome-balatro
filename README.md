@@ -321,6 +321,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) | [discord](https://discord.com/channels/1116389027176787968/1236675603495653416) - Changes card textures into a stylized dark mode. by [@Carroton](https://github.com/CarrotonMan)
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - Replaces Tarot cards with Game of Thrones Tarot (HBO). by `@Zabuza`
 - [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - Adds a color gradient to the suits. by `@Dec`
+- [Gross Balatro](https://github.com/chrishanel/grossbalatro) - Replaces Gros Michel with actor Michael Gross (and Cavendish with Michael J. Fox as Alex P. Keaton). by `@ChrisHanel`
 - [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - Replaces default clubs with high contrast clubs, while removing the gradient from them, 2x only. by `@moonlitstargazer`
 - [Improved Booster Tarots](https://github.com/Ard1tion/Improved-Booster-Tarots) - A Retexture of all of the "booster" tarots to make them look like their effects. by [@Ardition](https://github.com/Ard1tion)
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
