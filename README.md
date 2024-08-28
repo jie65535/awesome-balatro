@@ -222,6 +222,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 - [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
+- [Balatro Hand Preview RU](https://github.com/ZarenOFF/Balatro-HandPreview-RU) - Russian translation for Balatro Hand Preview by [@ZarenOFF](https://github.com/ZarenOFF)
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
 - [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) - Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by [@Zei33](https://github.com/Zei33)
 - [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) - Mod for selecting and changing the colours of the main menu background. by [@EmperorGesar](https://github.com/EmperorGesar)
