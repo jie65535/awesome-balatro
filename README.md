@@ -115,7 +115,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
 
 ### Consumable cards
-- [Blanks](https://discord.com/channels/1116389027176787968/1247557789807677480) - Blank consumables spin around and transform into another consumable of the same type when used. by `@jenwalter666`
 - [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
 - [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi)
 - [The Autumn Circus](https://github.com/AutumnMood924/TheAutumnCircus) - A modularized Balatro mod adding a variety of content! by [AutumnMood](https://github.com/AutumnMood924)
@@ -201,13 +200,13 @@ Collect all Balatro mods and tools, welcome to add!
 - [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [IncreaseSoulProbability](https://github.com/AkitaAttribute/IncreaseSoulProbability) - Increase Soul Spectral Card Probability To Spawn. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - A mod to increase the score cap from 1.7e308 to effectively infinite. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
-- [JimboStats](https://discord.com/channels/1116389027176787968/1228767177411137636) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
+- [JimboStats](https://github.com/JimboStats/jimbo-stats-mod) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
 - [JoJo's Tarots](https://github.com/Infarcactus/Balatro-Custom-Sound-Player) - Listen to jojo stand name when playing tarots cards. by [@infarctus](https://github.com/Infarcactus)
 - [Masquerade](https://github.com/Amvoled/Masquerade) - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
 - [Metal Card Falling Sound Effect](https://github.com/Muddieee/metal_card_falling) - Replaces default steel card activation sound with metal pipe falling sound effect. by [@Muddie](https://github.com/Muddieee)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
 - [Neow Blessings](https://github.com/kjossul/NeowBlessings) - Neow has transformed into a cute little card! Choose between 4 blessings at the start of your run, inspired from Slay the Spire. by [@kjossul](https://github.com/kjossul)
-- [Quick Restart](https://github.com/nicholassam6425/balatro-mods) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
+- [Quick Restart](https://github.com/nicholassam6425/balatro-mods/blob/main/steamodded/mods/quickrestart_steamodded.lua) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [RerollPacks](https://github.com/DorkDad141/balatro/blob/main/RerollPacks.lua) - Reroll packs when rerolling the shop. by [@DorkDad141](https://github.com/DorkDad141)
