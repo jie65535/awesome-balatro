@@ -180,6 +180,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
+- [Balatro Ultimate Speedup Mod](https://github.com/sse2/balatro-ultimate-speedup-mod) - A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by [@sse2](https://github.com/sse2)
 - [Better Balatro](https://discord.com/channels/1116389027176787968/1223603584285937774) - A mod that changes the gameplay for a fresh Balatro™️ experience! by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
 - [Better Stakes](https://github.com/kjossul/BetterStakes) - Rework of orange and gold stakes, making them less challenging and reducing the need to reset for a good start. by [@kjossul](https://github.com/kjossul)
