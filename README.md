@@ -74,6 +74,7 @@ Collect all Balatro mods and tools, welcome to add!
 ## Tools
 
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Edward](https://github.com/efhiii)
+- [Balatro Ultimate Speedup Mod](https://github.com/sse2/balatro-ultimate-speedup-mod) - A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by [@sse2](https://github.com/sse2)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
