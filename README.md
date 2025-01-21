@@ -158,6 +158,7 @@ Collect all Balatro mods and tools, welcome to add!
   - Perfect Precision Deck - +1 hands, discards and hand size. Start with a negative The Sniper Joker. Ante scales X1.5 as fast.
 - [Number Deck](https://discord.com/channels/1116389027176787968/1229482445074857996) - Swaps the face cards for numbers instead. This mod adds a numerical deck. by `@Matherubik1`
 - [Pact Deck](https://discord.com/channels/1116389027176787968/1212584088968368208) - After defeating each Boss Blind, gain a **Negative Tag**. and **-1** Joker Slot. by `@Blackbando`
+- [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 - [Randomizer Deck](https://github.com/Hellyom/HellyomBalatroMods) - The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by [@Hellyom](https://github.com/Hellyom)
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
 - [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at **full price**! Might be overpowered but it's definitely fun! by `@Rose Happy`
