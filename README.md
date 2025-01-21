@@ -62,6 +62,7 @@ Collect all Balatro mods and tools, welcome to add!
   - [Mods (Require **Lovely**)](#mods-require-lovely)
     - [Decks](#decks-2)
     - [Functional](#functional)
+    - [GUI](#gui-2)
     - [Jokers](#jokers-2)
     - [Miscellaneous](#miscellaneous)
     - [Translates](#translates-2)
@@ -427,6 +428,9 @@ Collect all Balatro mods and tools, welcome to add!
 ### Functional
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 - [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
+
+### GUI
+- [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
 
 ### Jokers
 - [Parrot Joker](https://thunderstore.io/c/balatro/p/JoStro/Parrot_Joker/) - A custom joker that copies the abilities of other jokers at random. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
