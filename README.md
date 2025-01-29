@@ -257,6 +257,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Incantation](https://github.com/cubeanimataz/Incantation) | [discord](https://discord.com/channels/1116389027176787968/1248924034716930100) - Enables the ability to stack identical consumables. by [@jenwalter666](https://github.com/cubeanimataz), [@MathIsFun_](https://github.com/MathIsFun0)
 
 ### Jokers
+- [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [5CEBalatro](https://github.com/DPS2004/5CEBalatro) - do jokers have meat? by [@DPS2004](https://github.com/DPS2004), `@The 5CEB server`
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
