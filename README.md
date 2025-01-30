@@ -262,6 +262,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [BBBalatro](https://github.com/BBBalatroMod/BBBalatro/tree/main) - Adds 15 well-designed jokers and counting. by [@BBBalatroMod](https://github.com/BBBalatroMod)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
+- [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [Bunco](https://github.com/Firch/Bunco) - Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
