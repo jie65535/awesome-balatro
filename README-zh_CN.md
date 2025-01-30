@@ -236,11 +236,11 @@
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
 
 ### 小丑
-- [大爆炸](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [演示视频](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. 试试你能让一张牌触发多少次！ (小丑x2 & 挑战x1). by [@ZJWCY](https://github.com/ZJWCY)
 - [5CEBalatro](https://github.com/DPS2004/5CEBalatro) - do jokers have meat? by [@DPS2004](https://github.com/DPS2004), `@The 5CEB server`
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - 修改古老小丑，现在只会要求牌组中已有的花色。 by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - 增加“烂苹果小丑”。 by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Betmma Jokers](https://github.com/betmma/my_balatro_mods) - 增加 5 个小丑。 by [@Betmma](https://github.com/betmma)
+- [大爆炸](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [演示视频](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. 试试你能让一张牌触发多少次！ (小丑x2 & 挑战x1). by [@ZJWCY](https://github.com/ZJWCY)
 - [Bunco](https://github.com/Firch/Bunco) - 增加 7 个小丑。 by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [Date Jokers](https://github.com/snowylight/DatealiveBalatro) - 增加 13 个以动漫《约会大作战》中精灵角色为原型创作的小丑。 by [@snowylight](https://github.com/snowylight)
