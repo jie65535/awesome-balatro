@@ -251,6 +251,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [SeedUnlocker](https://discord.com/channels/1116389027176787968/1229891707793969265) - Allows for entering seeds without Balatro's arbitrary character restrictions. by [@MathIsFun_](https://github.com/mathisfun0)
 - [Spectral Recolouring](https://github.com/Eremel/SpectralRecolours) | [discord](https://discord.com/channels/1116389027176787968/1248780371974295592) - Adds a shader to allow easy recolouring of spectral cards. by [@Eremel_](https://github.com/Eremel)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - A speedrun timer for Balatro. by [@MathIsFun_](https://github.com/mathisfun0)
+- [SystemClock](https://github.com/Breezebuilder/SystemClock) - Adds a draggable, resizable, customizable clock to the game screen. by [@Breezebuilder](https://github.com/Breezebuilder)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
 - [Trance](https://github.com/MathIsFun0/Trance) | [discord](https://discord.com/channels/1116389027176787968/1248865517112918016) - A mod that lets you change Balatro's colors. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
