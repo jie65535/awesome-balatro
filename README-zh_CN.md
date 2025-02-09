@@ -231,6 +231,7 @@
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - 在游戏中添加轮盘赌，这样你就可以输掉所有的钱，跑得更快。 by [@Hellyom](https://github.com/Hellyom)
 - [SeedUnlocker](https://discord.com/channels/1116389027176787968/1229891707793969265) - 允许输入任意长度种子。 by [@MathIsFun_](https://github.com/mathisfun0)
 - [Speedrun Timer](https://discord.com/channels/1116389027176787968/1209916317604511814) - 竞速计时器。 by [@MathIsFun_](https://github.com/mathisfun0)
+- [SystemClock](https://github.com/Breezebuilder/SystemClock) - 在游戏屏幕上添加一个可拖动、可调整大小、可自定义的时钟。by [@Breezebuilder](https://github.com/Breezebuilder)
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - 失败并不会结束本局游戏，而是重置底注。 by [@Amvoled](https://github.com/Amvoled)
 - [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - 显示命运之轮的失败概率，并保证每 4 次必定有 1 次成功。 by [@sabslikesobs](https://github.com/sabslikesobs)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
