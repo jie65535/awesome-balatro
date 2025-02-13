@@ -326,6 +326,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
 - [Colorblind Friendly Card Colors Pack](https://discord.com/channels/1116389027176787968/1213904100065021962) - This mod changes the standard card colors to be friendly to the three main colorblind types. by `@za0za_0`, `@Morn`, `@fridaywitch`
 - [Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) | [discord](https://discord.com/channels/1116389027176787968/1236675603495653416) - Changes card textures into a stylized dark mode. by [@Carroton](https://github.com/CarrotonMan)
+- [EclipseTextures](https://github.com/aleksxar/EclipseTextures) - Aims to give most of the game's textures a dark mode makeover, without many changes to the vanilla look. by `@aleksxar`
 - [Game of Thrones Tarot](https://discord.com/channels/1116389027176787968/1219343995822407750) - Replaces Tarot cards with Game of Thrones Tarot (HBO). by `@Zabuza`
 - [Gradient Suit Colors](https://discord.com/channels/1116389027176787968/1221853064475050064) - Adds a color gradient to the suits. by `@Dec`
 - [Gross Balatro](https://github.com/chrishanel/grossbalatro) - Replaces Gros Michel with actor Michael Gross (and Cavendish with Michael J. Fox as Alex P. Keaton). by `@ChrisHanel`
