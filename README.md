@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
 
-English | [简体中文](/README-zh_CN.md)
+English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md)
 
 Collect all Balatro mods and tools, welcome to add!
 
