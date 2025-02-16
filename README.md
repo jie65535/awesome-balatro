@@ -321,17 +321,18 @@ Collect all Balatro mods and tools, welcome to add!
 - [High Contrast Clubs](https://discord.com/channels/1116389027176787968/1221328616164691978) - Replaces default clubs with high contrast clubs, while removing the gradient from them, 2x only. by `@moonlitstargazer`
 - [Improved Booster Tarots](https://github.com/Ard1tion/Improved-Booster-Tarots) - A Retexture of all of the "booster" tarots to make them look like their effects. by [@Ardition](https://github.com/Ard1tion)
 - [Improved four colors of suits](https://discord.com/channels/1116389027176787968/1213893814343696414) - Makes the colors for a four-color deck better. by `@Zabuza`
+- [Lotus](https://drive.google.com/drive/folders/1QrVoxrdkrcmmGhZYlnDTpaXwOj3UA4bP) - ohhh yeah its lotus time babeyyy yeaaah woo yeah oh yeah yeah woo. by `@_VioMarks_`, `@strudel-fatpaws`
 - [Luna's Enhanced Enhancements](https://discord.com/channels/1116389027176787968/1216064295633289286) - Modified enhancement textures to fit the pattern of changing the material of the cards. by `@Luna`
 - [Necrodancer Spectrals](https://discord.com/channels/1116389027176787968/1229566404278358128) - Changes Spectral cards into Necrodancer Chars. Soul included. by `@Luh`
 - [Ogtextures](https://github.com/UppedHealer8521/Ogtextures) - the original textures from balatro 0.8.8. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 - [Persona Tarot](https://discord.com/channels/1116389027176787968/1219528214486192138) - Replaces Tarot cards with their respective versions from the Persona video game series. by `@Sunday`
 - [Random Dice Blinds](https://discord.com/channels/1116389027176787968/1224728153310887956) - Replaces the Blind chips with imagery of Random Dice bosses. by `@Assassin Dice`
 - [Recast Contrast](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) - Just a branched off version of the Enhanced Enhancements texture pack that only has the high-contrast card colors! by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
+- [Spectralsbian](https://discord.com/channels/1116389027176787968/1248729661815521381) - Spectral cards, but with the lesbian flag colours. by `@RadicaAprils`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212504558853689434) - Keranik's 4-Color Poker Player's Deck. by `@Keranik`
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
-- [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
 - [Trans Spectrals](https://discord.com/channels/1116389027176787968/1247528518842191971) - Spectral Cards (and spectral adjacent cards) but trans Spectrans. by `@RadicaAprils`
-- [Spectralsbian](https://discord.com/channels/1116389027176787968/1248729661815521381) - Spectral cards, but with the lesbian flag colours. by `@RadicaAprils`
+- [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
