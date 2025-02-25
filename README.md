@@ -463,6 +463,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [Malverk](https://github.com/Eremel/Malverk) - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel_](https://github.com/Eremel)
 - [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
+- [Readabletro](https://github.com/bladeSk/readabletro) - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
 
 ### Jokers
 
