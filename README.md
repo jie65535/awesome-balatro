@@ -14,7 +14,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Steam](https://img.shields.io/badge/Steam-Balatro-blue?logo=steam)](https://store.steampowered.com/app/2379780/Balatro/)
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
-[![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=wiki.js)](https://balatro.wiki/)
+[![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=fandom)](https://balatrogame.fandom.com/)
 
 English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md)
 
