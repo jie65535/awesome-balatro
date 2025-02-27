@@ -128,6 +128,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Sylvie's Silliness](https://github.com/NewtTheFish/SylvieSilly) - A few decks, jokers, etc. Have fun! by [@NewtTheFish](https://github.com/NewtTheFish)
 - [TetraPak](https://tetraminus.github.io/TetrapakWebsite/) - This mod add quite a few new things,such as new jokers, new consumables, and a Boss Blind. by [@tetraminus](https://github.com/tetraminus)
 - [Wiwiweb's Balatro mods](https://github.com/Wiwiweb/BalatroMods) - Various mods for Balatro. by [@Wiwiweb](https://github.com/Wiwiweb)
+- [Fortlatro](https://github.com/EricTheToon/Fortlatro) - A Fortnite X Balatro collab featuring 44 Jokers, 2 Decks, 2 Tarots, 1 Spectral, 21 Consumables, 5 Enhancements, 3 Seals, 2 Booster Packs, and 2 Blinds  by [EricTheToon](https://github.com/EricTheToon)
 
 ### Consumable cards
 
