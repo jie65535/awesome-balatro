@@ -251,6 +251,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Incantation](https://github.com/jenwalter666/JensBalatroCollection/tree/main/Incantation) | [discord](https://discord.com/channels/1116389027176787968/1248924034716930100) - Enables the ability to stack identical consumables. by [@jenwalter666](https://github.com/cubeanimataz), [@MathIsFun_](https://github.com/MathIsFun0)
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
+- [Jimbo's Metrics](https://gitlab.com/CraftedCart/jimbos_metrics) - Graph your plays over time, and view your previous hands. by [@CraftedCart](https://gitlab.com/CraftedCart)
 - [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 - [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
