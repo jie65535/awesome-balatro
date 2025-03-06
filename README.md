@@ -147,6 +147,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - Create a special deck that only contains 8s! by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which **doubles** all probabilities, both bad and good! by `@Blackbando`
+- [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
 - [Double Decker](https://discord.com/channels/1116389027176787968/1246280922412744774) - Adds a double-stacked deck to the game. by `@Rokk`
 - [Dynamic Deck](https://discord.com/channels/1116389027176787968/1211776677584175125) - Increase rank of discarded cards by **1**! by `@Tianjing`
 - [Easy Start Deck](https://discord.com/channels/1116389027176787968/1215120640563089470) - A deck that starts with a **coupon** and **polychromatic** tag for a good start made for gloc. by `@Spellign`
@@ -326,6 +327,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Tags
 
 - [Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
+- [DNA Splice Tag](https://github.com/jlwoolf/DNASplice) - Adds a tag that gives a free DNA joker in the shop. by [@jlwoolf](https://github.com/jlwoolf)
 
 ### Textures
 
