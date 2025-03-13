@@ -332,7 +332,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Textures
 
 - [Baba Decks](https://discord.com/channels/1116389027176787968/1217466648135733328) - A texture mod, using art by Auburn Arcana on Tumblr. Makes the basic + Abandoned decks look like Baba! by `@Blackbando`
-- [BalaQuints](https://github.com/Luuumine/BalaQuints) - A texture mod adding characters from The Quintessential Quintuplets into the game! by `@Luuumine`
+- [BalaQuints](https://github.com/Luuumine/BalaQuints) - A texture mod adding characters from The Quintessential Quintuplets into the game! by [@Luuumine](https://github.com/Luuumine)
 - [Balatro '95](https://github.com/Sparktimus/Balatro95) | [discord](https://discord.com/channels/1116389027176787968/1246389947556958240) - Make Balatro look like a Windows 95 game! by `@Duncan Molloy`, [@Sparks](https://github.com/Sparktimus)
 - [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) - A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
