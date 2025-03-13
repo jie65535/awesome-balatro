@@ -2,9 +2,9 @@
   <a href="https://www.playbalatro.com/">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg" alt="Awesome Balatro Mods"/>
   </a>
-  
+
   <p>The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.</p>
-  
+
 </div>
 
 <br/>
@@ -332,6 +332,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Textures
 
 - [Baba Decks](https://discord.com/channels/1116389027176787968/1217466648135733328) - A texture mod, using art by Auburn Arcana on Tumblr. Makes the basic + Abandoned decks look like Baba! by `@Blackbando`
+- [BalaQuints](https://github.com/Luuumine/BalaQuints) - A texture mod adding characters from The Quintessential Quintuplets into the game! by [@Luuumine](https://github.com/Luuumine)
 - [Balatro '95](https://github.com/Sparktimus/Balatro95) | [discord](https://discord.com/channels/1116389027176787968/1246389947556958240) - Make Balatro look like a Windows 95 game! by `@Duncan Molloy`, [@Sparks](https://github.com/Sparktimus)
 - [Balatro Re;Shuffled](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection/releases/tag/RS-Release) - A full game reskin with every joker, consumable, and blind replaced. by [@XenoCHeart](https://github.com/XenoCHeart) and the Balatro Discord
 - [Balatro-Texture-Packs](https://github.com/alexse13dev/Balatro-Texture-Packs) - I just wanted an easier way to share my (or others) texture packs. by [@Alexse13](https://github.com/alexse13dev)
@@ -500,7 +501,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Textures
 
-- [Four-color deck](https://discord.com/channels/1116389027176787968/1219422385451700304) - This mod change the default deck to match the standard colors used in four color decks in poker. by `@FabianPEKS`, [@owennerd123](https://www.reddit.com/user/owennerd123/) 
+- [Four-color deck](https://discord.com/channels/1116389027176787968/1219422385451700304) - This mod change the default deck to match the standard colors used in four color decks in poker. by `@FabianPEKS`, [@owennerd123](https://www.reddit.com/user/owennerd123/)
 - [Mekai's Card Back Collection](https://discord.com/channels/1116389027176787968/1223241971154292808) - A collection of card back textures intended for Balatro mods. by `@Pink/Mekai`
 - [Remove Gradient from High Contrast Cards](https://discord.com/channels/1116389027176787968/1217950156318707813) - When you turn on the game option for high contrast suit colors, there's a gradient applied to the faces of all the cards -- the pips are lighter at the top of the card and darker at the bottom. Here's a simple graphical mod to remove this gradient so the colors are flat. by `@Hyphen-ated`
 - [Simple HD pixelated](https://discord.com/channels/1116389027176787968/1227566624375312455) - Simple HD pixelated with optional anime JKQs and rounded corners. by `DDRitter`
