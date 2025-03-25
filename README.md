@@ -284,7 +284,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
-- [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. Adds a third banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
+- [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. This mod adds a third, legendary, banan joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
