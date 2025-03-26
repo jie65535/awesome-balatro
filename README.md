@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-- [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Edward](https://github.com/efhiii)
+- [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Saffron](https://github.com/efhiii)
 - [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 - [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) - Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]
 - [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
