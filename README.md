@@ -300,6 +300,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) - Adds 28 jokers to the game. by [@Matelote](https://github.com/batabata3)
 - [Panley Joker](https://github.com/RedrcknRbn/Panley-Joker) - Adds the Panley Joker to the game. by [@RedrcknRbn](https://github.com/RedrcknRbn)
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
+- [Quilombo](https://github.com/acetna/Quilombo) - Adds 7 custom jokers with interesting effects. by [@acetna](https://github.com/acetna)
 - [Reverie](https://dvrp-balatro-mods.pages.dev/reverie) - Reverie is a movie-themed Balatro expansion that focuses on providing special shops and various contents around it. by [@DVRP](https://github.com/dvrp0)
 - [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by [@DVRP](https://github.com/dvrp0)
 - [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
