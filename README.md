@@ -239,6 +239,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatro Hand Preview RU](https://github.com/ZarenOFF/Balatro-HandPreview-RU) - Russian translation for Balatro Hand Preview by [@ZarenOFF](https://github.com/ZarenOFF)
 - [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) - Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by [@Zei33](https://github.com/Zei33)
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
+- [Brainstorm Reroll Button](https://github.com/Jdbye/BalatroMods/blob/main/BrainstormRerollButton.lua) - For use with Brainstorm. Adds an Auto Reroll button to the escape menu and game over screen. by [@Jdbye](https://github.com/Jdbye)
 - [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) - Mod for selecting and changing the colours of the main menu background. by [@EmperorGesar](https://github.com/EmperorGesar)
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
@@ -301,6 +302,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Panley Joker](https://github.com/RedrcknRbn/Panley-Joker) - Adds the Panley Joker to the game. by [@RedrcknRbn](https://github.com/RedrcknRbn)
 - [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
 - [Quilombo](https://github.com/acetna/Quilombo) - Adds 7 custom jokers with interesting effects. by [@acetna](https://github.com/acetna)
+- [Restart Run Button](https://github.com/Jdbye/BalatroMods/blob/main/RestartRunButton.lua) - Adds a Restart Run button to the escape menu and game over screen. Useful on mobile or for those who were annoyed that the built in R hotkey to restart the run doesn't work on the game over screen. by [@Jdbye](https://github.com/Jdbye)
 - [Reverie](https://dvrp-balatro-mods.pages.dev/reverie) - Reverie is a movie-themed Balatro expansion that focuses on providing special shops and various contents around it. by [@DVRP](https://github.com/dvrp0)
 - [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by [@DVRP](https://github.com/dvrp0)
 - [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
@@ -472,11 +474,9 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-- [Brainstorm Reroll Button](https://github.com/Jdbye/BalatroMods/blob/main/BrainstormRerollButton.lua) - For use with Brainstorm. Adds an Auto Reroll button to the escape menu and game over screen. by [@Jdbye](https://github.com/Jdbye)
 - [Malverk](https://github.com/Eremel/Malverk) - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel_](https://github.com/Eremel)
 - [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
 - [Readabletro](https://github.com/bladeSk/readabletro) - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
-- [Restart Run Button](https://github.com/Jdbye/BalatroMods/blob/main/RestartRunButton.lua) - Adds a Restart Run button to the escape menu and game over screen. Useful on mobile or for those who were annoyed that the built in R hotkey to restart the run doesn't work on the game over screen. by [@Jdbye](https://github.com/Jdbye)
 
 ### Jokers
 
