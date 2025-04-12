@@ -270,6 +270,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Trance](https://github.com/MathIsFun0/Trance) | [discord](https://discord.com/channels/1116389027176787968/1248865517112918016) - A mod that lets you change Balatro's colors. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
+- [NoFlipBoss](https://github.com/ssyangchn/NoFlipBoss) - Disable the flipping mechanic of certain Bosses in Balatro. by [@ssyangchn](https://github.com/ssyangchn)
 
 ### Jokers
 
