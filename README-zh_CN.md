@@ -235,7 +235,7 @@
 - [Taikomochi](https://github.com/Amvoled/Taikomochi) - 失败并不会结束本局游戏，而是重置底注。 by [@Amvoled](https://github.com/Amvoled)
 - [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) - 显示命运之轮的失败概率，并保证每 4 次必定有 1 次成功。 by [@sabslikesobs](https://github.com/sabslikesobs)
 - [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) - 把胜利结算界面的 Jimbo（和玩家说话的小丑）替换成了 tbh（一个来自梗图的迷之生物）。 by [@Mysthaps](https://github.com/Mysthaps)
-- [NoFlipBoss](https://github.com/ssyangchn/NoFlipBoss) - 禁用《Balatro》中特定 Boss 的翻转机制。by [@ssyangchn](https://github.com/ssyangchn)
+- [Manual Flip](https://github.com/ssyangchn/ManualFlip) - 添加快捷键可翻转选中的手牌和小丑牌。 by [@ssyangchn](https://github.com/ssyangchn)
 
 ### 小丑
 - [5CEBalatro](https://github.com/DPS2004/5CEBalatro) - do jokers have meat? by [@DPS2004](https://github.com/DPS2004), `@The 5CEB server`
