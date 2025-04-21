@@ -471,7 +471,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 - [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
-- [Typist](https://github.com/janw4ld/balatro-typist-mod) - Typist is complete implementation of keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@janw4ld](https://github.com/janw4ld)
+- [typist](https://github.com/kasimeka/balatro-typist-mod) - Tstypist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 
 ### GUI
 
