@@ -259,6 +259,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 - [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
+- [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
 - [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
