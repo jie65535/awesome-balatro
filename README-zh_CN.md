@@ -226,6 +226,7 @@
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - 允许自定义游戏光标。 by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - 重新查看刚刚结束的一局游戏。 by [@MilcK](https://github.com/Mi1cK)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - 对主菜单界面进行了微调。 by `@termisaal`
+- [Manual Flip](https://github.com/ssyangchn/ManualFlip) - 添加快捷键可翻转选中的手牌和小丑牌。 by [@ssyangchn](https://github.com/ssyangchn)
 - [More Speed](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/MoreSpeeds.lua) - 更多的速度选项！ by [@Steamo](https://github.com/Steamopollys)
 - [No Background](https://discord.com/channels/1116389027176787968/1231746124994449458) - 禁用开始菜单背景。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - 在游戏中添加轮盘赌，这样你就可以输掉所有的钱，跑得更快。 by [@Hellyom](https://github.com/Hellyom)
