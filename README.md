@@ -282,7 +282,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
-- [Date Jokers](https://github.com/snowylight/DatealiveBalatro) - Adds 13 jokers from anime DATE A LIVE. by [@snowylight](https://github.com/snowylight)
+- [Date A Live](https://github.com/snowylight/DatealiveBalatro) - Adds 19 jokers from anime DATE A LIVE. by [@snowylight](https://github.com/snowylight)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
@@ -297,6 +297,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [MittMods](https://discord.com/channels/1116389027176787968/1227500439055110175) - This mod adds many different jokers to the game. by `@MittensGCTM`
 - [Mor jokers](https://github.com/morpline/morjokers) | [discord](https://discord.com/channels/1116389027176787968/1230178381342179350) - Adds mor jokers. by [@Morpline](https://github.com/morpline) and [@Blizzow](https://github.com/BlizzowX)
 - [MoreFluff](https://notmario.github.io/MoreFluff/) - Adds more jokers to the game, by [@notmario](https://github.com/notmario)
+- [Multipack](https://github.com/snowylight/Multipack) - More crazy packs! You can even choose booster packs from a "multipack". by [@snowylight](https://github.com/snowylight)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - Adds a couple of custom jokers to the game. by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - Adds more Jokers to the game. Before you install, read below. by [@Mysthaps](https://github.com/Mysthaps)
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
@@ -313,10 +314,12 @@ Collect all Balatro mods and tools, welcome to add!
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Snoresville's Turbulent Jokers](https://snoresville.github.io/snoresville_turbulent_jokers/) -  15 Jokers (6 Common, 5 Uncommon, 3 Rare, 1 Legendary) and 7 Decks that revolve around some of the Jokers. by [@Snoreville](https://github.com/Snoreville)
 - [Snow's Mods](https://rattlingsnow353.github.io/Snow-s-Mods/) - This is a Theme(s) mod that adds mult varying things to the game, There is currently (1 Theme). by [@RattlingSnow353](https://github.com/RattlingSnow353)
+- [Star Rail Events](https://github.com/snowylight/Starrailevents) - New consumable cards based on iconic events from Honkai: Star Rail by [@snowylight](https://github.com/snowylight)
 - [Super Balatrio Bros](https://github.com/DPS2004/Super-Balatrio-Bros) | [discord](https://discord.com/channels/1116389027176787968/1230341696957448222) - The entirety of Super Mario Bros. for the NES, now playable inside Balatro! by [@DPS2004](https://github.com/DPS2004)
 - [Tag Team](https://github.com/Snoresville/balatro-double-tag-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [The Blunt](https://github.com/Snoresville/balatro-blunt-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. by [@Blizzow](https://github.com/BlizzowX)
+- [Zilliax](https://github.com/snowylight/Zilliax) - Assemble Functional Modules to create your own Zilliax! by [@snowylight](https://github.com/snowylight)
 
 ### Seals
 
