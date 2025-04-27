@@ -245,7 +245,7 @@
 - [大爆炸](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [演示视频](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. 试试你能让一张牌触发多少次！ (小丑x2 & 挑战x1). by [@ZJWCY](https://github.com/ZJWCY)
 - [Bunco](https://github.com/Firch/Bunco) - 增加 7 个小丑。 by [@Firch](https://github.com/Firch)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
-- [Date Jokers](https://github.com/snowylight/DatealiveBalatro) - 增加 13 个以动漫《约会大作战》中精灵角色为原型创作的小丑。 by [@snowylight](https://github.com/snowylight)
+- [Date A Live](https://github.com/snowylight/DatealiveBalatro) - 增加 19 张以动漫《约会大作战》中精灵角色为原型创作的小丑。 by [@snowylight](https://github.com/snowylight)
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - 增加 4 个小丑，灵感来自 Inscryption. by `@LunaAstraCassiopeia`
@@ -257,6 +257,7 @@
 - [MittMods](https://discord.com/channels/1116389027176787968/1227500439055110175) - This mod adds many different jokers to the game. by `@MittensGCTM`
 - [Mor jokers](https://github.com/morpline/morjokers) | [discord](https://discord.com/channels/1116389027176787968/1230178381342179350) - Adds mor jokers. by [@Morpline](https://github.com/morpline) and [@Blizzow](https://github.com/BlizzowX)
 - [MoreFluff](https://notmario.github.io/MoreFluff/) - 增加一些小丑。 by [@notmario](https://github.com/notmario)
+- [Multipack](https://github.com/snowylight/Multipack) - 更多疯狂的补充包! 例如允许在卡包中选择卡包的“供给包”. by [@snowylight](https://github.com/snowylight)
 - [MultiJokers](https://github.com/iJohnMaged/multi-jokers) - 增加一些小丑。 by [@John Maged](https://github.com/iJohnMaged), `@Multi`, `@GoldenEpsilon`
 - [MystJokers](https://github.com/Mysthaps/BalatroMods) - 增加一些小丑。安装前请阅读说明。 by [@Mysthaps](https://github.com/Mysthaps)
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - 增加一些希腊神话相关的小丑。 by [@AbhinavR314](https://github.com/AbhinavR314)
@@ -268,10 +269,12 @@
 - [SDM_0's Stuff](https://github.com/SDM0/SDM_0-s-Stuff) - Adds more Jokers and Challenges to the game. by [@SDM_0](https://github.com/SDM0)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - 增加一些七宗罪相关的小丑，包括3个新挑战。 by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Snow's Mods](https://rattlingsnow353.github.io/Snow-s-Mods/) - This is a Theme(s) mod that adds mult varying things to the game, There is currently (1 Theme). by [@RattlingSnow353](https://github.com/RattlingSnow353)
+- [Star Rail Events](https://github.com/snowylight/Starrailevents) - 增加源自《崩坏：星穹铁道》的新消耗牌类型事件牌。 by [@snowylight](https://github.com/snowylight)
 - [Super Balatrio Bros](https://github.com/DPS2004/Super-Balatrio-Bros) | [discord](https://discord.com/channels/1116389027176787968/1230341696957448222) - The entirety of Super Mario Bros. for the NES, now playable inside Balatro! by [@DPS2004](https://github.com/DPS2004)
 - [Tag Team](https://github.com/Snoresville/balatro-double-tag-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [The Blunt](https://github.com/Snoresville/balatro-blunt-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - 增加一系列主题小丑。制作中。  by [@Blizzow](https://github.com/BlizzowX)
+- [Zilliax](https://github.com/snowylight/Zilliax) - 增加源自《炉石传说》的奇利亚斯小丑，可以自行组装模块！ by [@snowylight](https://github.com/snowylight)
 
 ### 蜡封
 - [Black Seal](https://www.nexusmods.com/balatro/mods/9/) - 增加黑色蜡封。只打出这张牌时，为随机小丑添加负片，移除牌组中的所有黑色蜡封（只能从标准包中获得）。 by [@infarctus](https://github.com/Infarcactus)
