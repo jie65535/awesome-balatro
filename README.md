@@ -86,7 +86,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
-- [The Soul](https://mathisfun0.github.io/The-Soul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
+- [The Soul](https://spectralpack.github.io/TheSoul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 
 ## Mod Loaders
 
