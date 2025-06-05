@@ -87,6 +87,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [The Soul](https://spectralpack.github.io/TheSoul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
+- [Balatro4J](https://github.com/alex-cova/balatro4j) - An seed searcher and database based in Immolate coded in Java. by [@alex-cova](https://github.com/alex-cova)
+- [PerkeoApp](https://github.com/alex-cova/perkeoapp) - A Balatro iOS companion app coded in Swift. by [@alex-cova](https://github.com/alex-cova)
 
 ## Mod Loaders
 
