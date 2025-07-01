@@ -369,6 +369,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Texture Pack](https://discord.com/channels/1116389027176787968/1212507813792714762) - Red, Green, Blue, Purple Standard Cards. by `@ywle`
 - [Trans Spectrals](https://discord.com/channels/1116389027176787968/1247528518842191971) - Spectral Cards (and spectral adjacent cards) but trans Spectrans. by `@RadicaAprils`
 - [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
+- [Baldatro](https://github.com/SirMaiquis/Balatro-Baldatro) - Baldatro is a mod that makes all the jokers bald, thats it, enjoy! by [@SirMaiquis](https://github.com/SirMaiquis)
 
 ### Translates
 
