@@ -340,8 +340,10 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Tags
 
-- [Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
+
 - [DNA Splice Tag](https://github.com/jlwoolf/DNASplice) - Adds a tag that gives a free DNA joker in the shop. by [@jlwoolf](https://github.com/jlwoolf)
+- [Tag Manager](https://github.com/SirMaiquis/Balatro-TagManager) - Tag Manager is a mod to control tags in the game, you can manage the Ante when they can start appearing. by [@SirMaiquis](https://github.com/SirMaiquis)
+- [Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
 
 ### Textures
 
