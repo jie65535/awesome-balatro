@@ -86,7 +86,10 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
 - [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
+- [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) - Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
+- [Motely](https://github.com/tacodiva/Motely) - A C# CPU SIMD seed searcher for Balatro. by [@tacodiva](https://github.com/tacodiva)
+- [Ouija](https://github.com/OptimusPi/ouija) - A JSON-powered, Immolate-based seed searcher for Balatro. by [@OptimusPi](https://github.com/OptimusPi)
 - [PerkeoApp](https://github.com/alex-cova/perkeoapp) - A Balatro iOS companion app coded in Swift. by [@alex-cova](https://github.com/alex-cova)
 - [The Soul](https://spectralpack.github.io/TheSoul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 
