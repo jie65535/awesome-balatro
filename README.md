@@ -78,6 +78,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Saffron](https://github.com/efhiii)
 - [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 - [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) - Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]
+- [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) - Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
 - [Balatro Ultimate Speedup Mod](https://github.com/sse2/balatro-ultimate-speedup-mod) - A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by [@sse2](https://github.com/sse2)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
@@ -86,7 +87,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
 - [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
-- [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) - Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
+- [Blueprint](https://miaklwalker.github.io/Blueprint/) - An online seed analyzer inspired by the soul, with joker spoilers and queue support [@miaklwalker](https://github.com/miaklwalker)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Motely](https://github.com/tacodiva/Motely) - A C# CPU SIMD seed searcher for Balatro. by [@tacodiva](https://github.com/tacodiva)
 - [Ouija](https://github.com/OptimusPi/ouija) - A JSON-powered, Immolate-based seed searcher for Balatro. by [@OptimusPi](https://github.com/OptimusPi)
