@@ -89,6 +89,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [PerkeoApp](https://github.com/alex-cova/perkeoapp) - A Balatro iOS companion app coded in Swift. by [@alex-cova](https://github.com/alex-cova)
 - [The Soul](https://spectralpack.github.io/TheSoul/) - An online seed analyzer for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
+- [Blueprint](https://miaklwalker.github.io/Blueprint/) - An online seed analyzer inspired by the soul, with joker spoilers and queue support [@miaklwalker](https://github.com/miaklwalker)
 
 ## Mod Loaders
 
