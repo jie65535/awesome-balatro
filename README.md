@@ -98,6 +98,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [Balamod](https://github.com/balamod/balamod) - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+- [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
