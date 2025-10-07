@@ -321,6 +321,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
 - [Sculio](https://github.com/crmykybord/Sculio) - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
+- [Slay the Princess](https://github.com/Kastamera/SlayThePrincess) - Adds 31 new Jokers based on Slay the Princess, and a new deck. by [@Kastamera](https://github.com/Kastamera)
 - [Snoresville's Turbulent Jokers](https://snoresville.github.io/snoresville_turbulent_jokers/) -  15 Jokers (6 Common, 5 Uncommon, 3 Rare, 1 Legendary) and 7 Decks that revolve around some of the Jokers. by [@Snoreville](https://github.com/Snoreville)
 - [Snow's Mods](https://rattlingsnow353.github.io/Snow-s-Mods/) - This is a Theme(s) mod that adds mult varying things to the game, There is currently (1 Theme). by [@RattlingSnow353](https://github.com/RattlingSnow353)
 - [Star Rail Events](https://github.com/snowylight/Starrailevents) - New consumable cards based on iconic events from Honkai: Star Rail by [@snowylight](https://github.com/snowylight)
