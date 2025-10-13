@@ -180,6 +180,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Randomizer Deck](https://github.com/Hellyom/HellyomBalatroMods) - The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by [@Hellyom](https://github.com/Hellyom)
 - [Royal Deck](https://discord.com/channels/1116389027176787968/1215417507440107540) - Adds 1 deck (Royal Deck): It contains only enhanced Aces, face cards, and 10s. by `@UnknownEternity`
 - [ScrapDeck](https://discord.com/channels/1116389027176787968/1212307751980498975) - A deck where everything sells at **full price**! Might be overpowered but it's definitely fun! by `@Rose Happy`
+- [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer). by `@jacksoncmu`   
 - [Sylvie's Silliness](https://github.com/NewtTheFish/SylvieSilly) - A few decks, jokers, etc. Have fun! by [@NewtTheFish](https://github.com/NewtTheFish)
   - Lemon-Lime Deck - Start with a modified deck; -1 discard, -1 hand; The 2's in the deck have one of each (vanilla) seal.
   - Sulfur Deck - Start with a Death card and Overstock; Jokers are appear less often (equal chance to Tarots and Planets)
