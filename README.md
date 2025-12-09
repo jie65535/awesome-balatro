@@ -300,6 +300,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [Joker Evolution](https://github.com/SDM0/Joker-Evolution) | [discord](https://discord.com/channels/1116389027176787968/1249450412143153266) - Gives a few jokers strong evolutions! by [@SDM_0](https://github.com/SDM0)
 - [Joker Fusions](https://discord.com/channels/1116389027176787968/1223117435356577824) - Adds fused Jokers to the game, encountered via owning two compatible Jokers. by `@Numbuh214`
+- [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 - [LushMod](https://github.com/lusciousdev/LushMod) - Pack with 9 jokers with some interesting effects. by [@lusciousdev](https://github.com/lusciousdev)
 - [Lynverse Jokers](https://alexyothefirst.com/mods/lynverse/) - A pack of 15 Jokers based on some lovely ladies! by [@AlexyoTheFirst](https://alexyothefirst.com/)
 - [Milatro](https://github.com/milankapitein/milatro-mod) - Adds 30 new vanilla inspired Jokers to allow for new builds and synergies. by [@MilanKapitein](https://github.com/milankapitein)
