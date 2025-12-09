@@ -331,6 +331,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [The Blunt](https://github.com/Snoresville/balatro-blunt-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. by [@Blizzow](https://github.com/BlizzowX)
 - [Zilliax](https://github.com/snowylight/Zilliax) - Assemble Functional Modules to create your own Zilliax! by [@snowylight](https://github.com/snowylight)
+- [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 
 ### Seals
 
