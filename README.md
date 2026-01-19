@@ -87,6 +87,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 - [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
 - [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
+- [balatro-completionist-plus-plus-tracker](https://github.com/blackfan321/balatro-completionist-plus-plus-tracker) - Browser‑based Completionist++ tracker. by [@blackfan321](https://github.com/blackfan321)
 - [Blueprint](https://miaklwalker.github.io/Blueprint/) - An online seed analyzer inspired by the soul, with joker spoilers and queue support [@miaklwalker](https://github.com/miaklwalker)
 - [Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro. by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Motely](https://github.com/tacodiva/Motely) - A C# CPU SIMD seed searcher for Balatro. by [@tacodiva](https://github.com/tacodiva)
