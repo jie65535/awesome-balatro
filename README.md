@@ -80,6 +80,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) - Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]
 - [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) - Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
 - [Balatro Ultimate Speedup Mod](https://github.com/sse2/balatro-ultimate-speedup-mod) - A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by [@sse2](https://github.com/sse2)
+- [balatro-completionist-plus-plus-tracker](https://github.com/blackfan321/balatro-completionist-plus-plus-tracker) - Browser‑based Completionist++ tracker. by [@blackfan321](https://github.com/blackfan321)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
