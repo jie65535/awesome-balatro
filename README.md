@@ -152,6 +152,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 - [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
+- [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 - [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - Create a special deck that only contains 8s! by `@itiseren`
 - [Dice Deck](https://discord.com/channels/1116389027176787968/1213040102138323024) - A deck which **doubles** all probabilities, both bad and good! by `@Blackbando`
