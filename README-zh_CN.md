@@ -72,6 +72,7 @@
 ## 工具
 
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - 分数计算器。 by [@Edward](https://github.com/efhiii)
+- [Balatro HQ](https://balatrohq.com/) - Balatro 网页工具站：可并排对比两套配置的分数计算器、带 AI 打法建议的免费种子分析器，以及保存种子和打法摘要、笔记的种子库。 by [@o98k-ok](https://github.com/o98k-ok)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - 简单的存档加载器/修改器。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - 本地化工具链，用以翻译游戏图片素材。 by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - 存档管理器，macOS限定。 by [@miku1958](https://github.com/miku1958)
