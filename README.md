@@ -300,6 +300,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
+- [House of Hearts](https://github.com/PLagger7/House-of-Hearts) - Balatro University community project made for the House of Hearts event organised by American Heart Association. by `Balatro University Community`
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
