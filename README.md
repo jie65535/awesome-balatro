@@ -533,6 +533,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Miscellaneous
 
+- [Solatro](https://github.com/bryanthaboi/solatro/releases/tag/v1.0.0) - Turns the entire game into a game of Solitaire. by [@bryanthaboi](https://github.com/bryanthaboi)
 - [#1 Victory Royale!](https://github.com/Muddieee/balatro_victory_royale) - On win screen, replaces the "YOU WIN!" text with "#1 VICTORY ROYALE!" and the default win music with fortnite default dance. by [@Muddie](https://github.com/Muddieee)
 - [When the impostor is Sun](https://github.com/Muddieee/sun_is_sus) - Renames The Sun tarot card to The Sus and replaces its texture. by [@Muddie](https://github.com/Muddieee)
 - [Cartomancer](https://github.com/stupxd/Cartomancer) - Improved deck view and joker management with stacking and scrolling, capped deck pile and scoring flames customization. Made for long endless runs and crazy modded runs. by [@stupxd](https://github.com/stupxd)
