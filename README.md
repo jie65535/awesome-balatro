@@ -420,6 +420,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Vouchers
 
 - [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 10 More Vouchers! by [@Betmma](https://github.com/betmma)
+- [Betmma Vouchers Mobile Friendly]([https://github.com/betmma/my_balatro_mods](https://github.com/RakibRyan/Betmma-Jokers-Mobile-friendly)) - Same Betmma Vouchers Mod with compatilbe shaders to also work in mobiles by [@RakibRyan]([https://github.com/betmma](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Loop](https://discord.com/channels/1116389027176787968/1248431147784863840) - Adds a new voucher called Loop, allowing certain vouchers to be re-redeemed in the same run. by `@jenwalter666` <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
 
 ### Utils
