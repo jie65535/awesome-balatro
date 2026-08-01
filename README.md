@@ -519,11 +519,11 @@ Collect all Balatro mods and tools, welcome to add!
 ### Functional
 
 - [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
+- [Alternative Speed Toggle](https://github.com/PixeledLobster/balatro-alternative-speed-toggle) - Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by [@PixeledLobster](https://github.com/PixeledLobster)
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 - [Green Needle](https://github.com/lafiosca/GreenNeedle) - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 - [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
 - [typist](https://github.com/kasimeka/balatro-typist-mod) - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
-- [Alternative Speed Toggle](https://github.com/PixeledLobster/balatro-alternative-speed-toggle) - Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by [@PixeledLobster](https://github.com/PixeledLobster)
 
 ### GUI
 
