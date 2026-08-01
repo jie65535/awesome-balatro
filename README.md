@@ -524,6 +524,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Green Needle](https://github.com/lafiosca/GreenNeedle) - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 - [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
 - [typist](https://github.com/kasimeka/balatro-typist-mod) - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
+- [Quick Hand Selector](https://github.com/PixeledLobster/Quick-Hand-Selector) - Adds an in-run panel with buttons to select any available poker hand, suit or combination in one click, with rebindable keyboard shortcuts for every action. by [@PixeledLobster](https://github.com/PixeledLobster)
 
 ### GUI
 
