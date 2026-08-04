@@ -243,7 +243,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [Masquerade](https://github.com/Amvoled/Masquerade) - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
 - [Metal Card Falling Sound Effect](https://github.com/Muddieee/metal_card_falling) - Replaces default steel card activation sound with metal pipe falling sound effect. by [@Muddie](https://github.com/Muddieee)
 - [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
+- [MoarSpeeds](https://gist.github.com/pjobson/8741f4eb2cab0831c51903c8b527c671) - Adds up to 64x speed.
 - [Neow Blessings](https://github.com/kjossul/NeowBlessings) - Neow has transformed into a cute little card! Choose between 4 blessings at the start of your run, inspired from Slay the Spire. by [@kjossul](https://github.com/kjossul)
+- [NoFire](https://gist.github.com/pjobson/c8256e40fd8a1c5e1da14ca6c827ff80) - Removes the fire effect, useful for low spec machines which lag.
 - [Quick Restart](https://github.com/nicholassam6425/balatro-mods/blob/main/steamodded/mods/quickrestart_steamodded.lua) - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 - [RandomSprite](https://github.com/Mysthaps/BalatroMods) - Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by [@Mysthaps](https://github.com/Mysthaps)
 - [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
