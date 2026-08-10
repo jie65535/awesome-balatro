@@ -77,6 +77,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Saffron](https://github.com/efhiii)
 - [Balatro HQ](https://balatrohq.com/) - Web tools for Balatro: a score calculator with side-by-side build comparison, a free seed analyzer with AI playstyle advice, and a seed vault that saves seeds with their build summary and notes. by [@o98k-ok](https://github.com/o98k-ok)
+- [BalatroLab](https://balatrolab.com/) - A bilingual (English/中文) Balatro database companion: 278 searchable cards, consumables, vouchers, decks, and poker hands with local media and source-reviewed relationships, plus a deterministic score calculator, joker synergy finder, unlock tracker, deck builder, and seed vault. by [@Max179](https://github.com/Max179)
 - [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 - [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) - Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]
 - [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) - Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
