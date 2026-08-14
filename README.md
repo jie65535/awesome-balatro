@@ -240,6 +240,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - A mod to increase the score cap from 1.7e308 to effectively infinite. by [@JamestheJellyfish](https://github.com/jamesthejellyfish) <img src="https://img.shields.io/badge/needs%20api%20rewrite-smods%20v0.7.2-orange" align="center">
 - [JimboStats](https://github.com/JimboStats/jimbo-stats-mod) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
 - [JoJo's Tarots](https://www.nexusmods.com/balatro/mods/13) - Replaces tarot cards graphics with ones from Jojo's. by `@KaptenApten`
+- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 - [lock-the-deal](https://github.com/LnxFCA/balatro-mods/tree/main/lock-the-deal) - Allows locking of a joker, tarot card or planet card in shop to be purchased later. [@LnxFCA](https://github.com/LnxFCA) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Masquerade](https://github.com/Amvoled/Masquerade) - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
 - [Metal Card Falling Sound Effect](https://github.com/Muddieee/metal_card_falling) - Replaces default steel card activation sound with metal pipe falling sound effect. by [@Muddie](https://github.com/Muddieee)
@@ -285,7 +286,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Jimbo's Metrics](https://gitlab.com/CraftedCart/jimbos_metrics) - Graph your plays over time, and view your previous hands. by [@CraftedCart](https://gitlab.com/CraftedCart)
-- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
