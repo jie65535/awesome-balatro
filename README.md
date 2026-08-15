@@ -285,7 +285,6 @@ Collect all Balatro mods and tools, welcome to add!
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Jimbo's Metrics](https://gitlab.com/CraftedCart/jimbos_metrics) - Graph your plays over time, and view your previous hands. by [@CraftedCart](https://gitlab.com/CraftedCart)
-- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
@@ -529,6 +528,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
+- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 - [Malverk](https://github.com/Eremel/Malverk) - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel_](https://github.com/Eremel)
 - [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
 - [Readabletro](https://github.com/bladeSk/readabletro) - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
