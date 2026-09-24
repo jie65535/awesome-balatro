@@ -74,6 +74,7 @@
 - [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - 分数计算器。 by [@Edward](https://github.com/efhiii)
 - [Balatro HQ](https://balatrohq.com/) - Balatro 网页工具站：可并排对比两套配置的分数计算器、带 AI 打法建议的免费种子分析器，以及保存种子和打法摘要、笔记的种子库。 by [@o98k-ok](https://github.com/o98k-ok)
 - [BalatroLab](https://balatrolab.com/) - 中英双语 Balatro 数据库工具站：收录全部 278 条记录（150 张小丑牌、塔罗/星球/幻灵/代金券、强化/版本/蜡封、牌组与牌型），带本地卡图与来源审校关系；确定性得分计算器、小丑搭配查询器、解锁进度追踪器、牌组构建器与种子库。 by [@Max179](https://github.com/Max179)
+- [Balatro Save Editor](https://github.com/BurntToasters/balatro-save-editor-gui) - 跨平台桌面存档编辑器（Windows、macOS、Linux）：修改金钱、直接通过当前盲注、设置牌型倍率、提高小丑牌/消耗牌槽位上限，以及编辑小丑牌（种类、版本、贴纸、售价）。每次写入前自动备份并校验。基于 problemsalved 的命令行编辑器。 by [@BurntToasters](https://github.com/BurntToasters)
 - [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) - 简单的存档加载器/修改器。 by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) - 本地化工具链，用以翻译游戏图片素材。 by [@Signez](https://github.com/Signez)
 - [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) - 存档管理器，macOS限定。 by [@miku1958](https://github.com/miku1958)
