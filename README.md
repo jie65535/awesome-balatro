@@ -124,6 +124,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Blinds
 
 - [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000) <img src="https://img.shields.io/badge/needs%20api%20rewrite-smods%20v0.9.2-orange" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
+- [Final Boss](https://github.com/SirMaiquis/Balatro-FinalBoss) - Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by [@SirMaiquis](https://github.com/SirMaiquis)
 
 
 ### Challenges
